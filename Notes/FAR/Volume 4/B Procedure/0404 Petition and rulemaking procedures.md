@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0404 Petition and rulemaking procedures
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

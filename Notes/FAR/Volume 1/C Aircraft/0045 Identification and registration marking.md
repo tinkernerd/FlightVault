@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0045 Identification and registration marking
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

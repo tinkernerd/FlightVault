@@ -1,18 +1,23 @@
 ---
 title: Taxi, Run-up, Traffic Pattern
 created_at: 2025-02-08T23:31:06-05:00
-modified_at: 2025-02-08T23:58:21-05:00
+modified_at: 2025-02-19T19:19:18-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Airport Operations
+  - Air Traffic
+  - T/O & Landings
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 16
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section provides essential training notes for new student pilots on taxiing, performing run-up checks, and understanding airport traffic patterns.
 
@@ -34,7 +39,7 @@ This section provides essential training notes for new student pilots on taxiing
 5. Safety Precautions:
     1. Test brakes during the first few feet of taxiing to ensure proper function.
     2. In confined areas, taxi slowly enough that the airplane will stop if brakes fail and throttle is reduced.
-6. Handling Wind During Taxi:
+6. Handling Wind During Taxi: [Crosswind Taxi Techniques - Pilot Institute](https://pilotinstitute.com/crosswind-taxi-techniques/)
     1. Strong winds can affect the airplane's balance; use proper control inputs.
         1. In a left quartering headwind: aileron left, elevator neutral.
         2. In a right quartering headwind: aileron right, elevator neutral.
@@ -42,6 +47,7 @@ This section provides essential training notes for new student pilots on taxiing
         4. In a right quartering tailwind: aileron left, elevator down.
     2. Remember: "Turn into a headwind, dive away from a tailwind."
     3. Practice these techniques even in light winds to build confidence.
+![](https://pilotinstitute.com/wp-content/uploads/2023/06/Taxi-With-Wind-Ailerons-1024x1024.png)
 
 ## Run-Up Checks:
 
@@ -89,7 +95,7 @@ This section provides essential training notes for new student pilots on taxiing
 
 ## Runway Markings and Headings:
 
-4. Understanding Runway Numbers:
+1. Understanding Runway Numbers:
     1. Runway numbers correspond to their magnetic direction rounded to the nearest 10 degrees, dropping the last zero.
         1. Example: Runway 36 is approximately 360 degrees (north).
         2. Runway 18 is approximately 180 degrees (south).
@@ -98,7 +104,7 @@ This section provides essential training notes for new student pilots on taxiing
         1. L for Left
         2. C for Center
         3. R for Right
-5. Compass Rose Directions:
+2. Compass Rose Directions:
     1. North: 360 degrees or 0 degrees
     2. Northeast: 45 degrees
     3. East: 90 degrees
@@ -107,7 +113,7 @@ This section provides essential training notes for new student pilots on taxiing
     6. Southwest: 225 degrees
     7. West: 270 degrees
     8. Northwest: 315 degrees
-6. Alignment Confirmation:
+3. Alignment Confirmation:
     1. Runway heading should agree with the airplane's magnetic heading within 5 degrees.
 
 Remember, mastering ground operations, run-up procedures, and understanding traffic patterns are essential steps towards becoming a proficient pilot. Practice these techniques to build confidence and ensure safety in all your flights.

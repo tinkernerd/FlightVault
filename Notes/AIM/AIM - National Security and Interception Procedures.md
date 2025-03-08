@@ -4,8 +4,9 @@ book: Aeronautical Information Manual
 chapter: chapter05
 type: Resource
 topic:
-  - ATC
   - Air Traffic
+  - Navigation
+  - Communications
 dateUpdated: 2025-01-31T22:04:12
 created_at: 2025-01-31T22:04:12
 category: Aviation

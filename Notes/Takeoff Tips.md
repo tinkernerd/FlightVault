@@ -1,18 +1,21 @@
 ---
 title: Takeoff Tips
 created_at: 2025-02-09T00:12:52-05:00
-modified_at: 2025-02-09T00:13:30-05:00
+modified_at: 2025-02-18T18:26:47-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - T/O & Landings
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 21
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section covers key takeoff challenges and best practices for new pilots to ensure safe and smooth departures.
 

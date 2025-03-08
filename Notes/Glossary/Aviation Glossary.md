@@ -4,9 +4,11 @@ source: https://www.faa.gov/air_traffic/publications/media/pcg_basic_w_chg_1_2_3
 created_at: 2025-01-31T22:25:42
 dateUpdated: 2025-01-31T22:25:42
 topic:
-  - Aviation
+  - Reference
 type: Glossary
 category: Aviation
+tags:
+  - Glossary
 ---
 # Pilot/Controller Glossary
 ## Purpose 
@@ -109,7 +111,7 @@ See [[#Advisory Service]]
 The appropriate frequency to be used for Airport Advisory Service.  
 (See [Local Airport Advisory](#local-airport-advisory).)  
 (See [UNICOM](#unicom).)  
-(Refer to [[ac_90-66c.pdf|Advisory Circular No. 90-66]])  
+(Refer to [[AC 90-66c.pdf|Advisory Circular No. 90-66]])  
 (Refer to [[Aeronautical Information Manual |AIM]])
 ### Advisory Service
 Advice and information provided by a facility to assist pilots in the safe conduct of flight and aircraft movement.  
@@ -561,7 +563,7 @@ The horizontal distance between the aircraft's current position and a fix measur
 
 ### Alphanumeric Display
 Letters and numerals used to show identification, altitude, beacon code, and other information concerning a target on a radar display.  
-(See automated radar terminal systems.) #upd
+(See automated radar terminal systems.) #todo 
 
 ### Alternate Aerodrome (ICAO)
 An aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to or to land at the aerodrome of intended landing.  
@@ -620,7 +622,7 @@ Adherence to previously imposed altitude restrictions is no longer required duri
 Authorization by ATC for a pilot to conduct an instrument approach. The type of instrument approach for which a clearance and other pertinent information is provided in the approach clearance when required.  
 
 (See cleared approach.)  #update
-(See instrument approach procedure.)  #¸
+(See instrument approach procedure.)  [[#]]
 (Refer to [[Aeronautical Information Manual|AIM]])
 (Refer to [[0091 General operating and flight rules|14 CFR Part 91.]])  
 
@@ -1373,7 +1375,7 @@ Typically the portion of an RNAV STAR between the en route transition endpoint a
 A frequency designed for the purpose of carrying out airport advisory practices while operating to or from an airport without an operating control tower. The CTAF may be a UNICOM, Multicom, FSS, or tower frequency and is identified in appropriate aeronautical publications.  
 
 (See Designated Common Traffic Advisory Frequency (CTAF) Area.)  
-(Refer to [[ac_90-66c.pdf|AC 90-66, Non-Towered Airport Flight Operations.]])
+(Refer to [[AC 90-66c.pdf|AC 90-66, Non-Towered Airport Flight Operations.]])
 
 ### Compass Locator
 A low power, low or medium frequency (L/MF) radio beacon installed at the site of the outer or middle marker of an instrument landing system (ILS). It can be used for navigation at distances of approximately 15 miles or as authorized in the approach procedure.  

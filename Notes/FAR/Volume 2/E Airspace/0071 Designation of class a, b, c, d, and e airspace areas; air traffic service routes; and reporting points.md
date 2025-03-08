@@ -4,8 +4,7 @@ category: Aviation
 title: 0071 Designation of class a, b, c, d, and e airspace areas; air traffic service
   routes; and reporting points
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 2
 ---

@@ -1,19 +1,23 @@
 ---
 title: Ground Reference Maneuvers
 created_at: 2025-02-14T14:48:33-05:00
-modified_at: 2025-02-14T14:51:38-05:00
+modified_at: 2025-02-18T18:30:14-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
-  - Ground Reference
+  - Air Traffic
+  - Control
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 2 - Practicing Landings
+Chapter: Chapter 2
 status: Active
+lesson: 1
 ---
->[[Private Pilot License (PPL) Notes |All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
+
 
 This section introduces ground reference maneuvers, essential for new pilots to understand wind effects on flight and develop skills to correct for drift while maintaining control and situational awareness.
 

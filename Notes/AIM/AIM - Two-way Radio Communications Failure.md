@@ -5,7 +5,8 @@ chapter: chapter06
 type: Resource
 topic:
   - Emergencies
-  - ATC
+  - Communications
+  - Navigation
 dateUpdated: 2025-01-31T22:04:12
 created_at: 2025-01-31T22:04:12
 category: Aviation

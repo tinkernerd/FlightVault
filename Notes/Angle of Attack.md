@@ -1,18 +1,21 @@
 ---
-title: 
+title: Angle of Attack
 created_at: 2025-02-14T15:31:19-05:00
-modified_at: 2025-02-14T15:37:09-05:00
+modified_at: 2025-02-18T18:33:15-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Control
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 2 - Practicing Landings
+Chapter: Chapter 2
 status: Active
+lesson: 6
 ---
->[[Private Pilot License (PPL) Notes |All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section explains the concept of angle of attack and its critical role in understanding and preventing stalls, emphasizing why a stall can occur at any airspeed or attitude.
 

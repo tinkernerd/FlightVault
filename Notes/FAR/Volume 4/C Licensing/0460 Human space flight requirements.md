@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0460 Human space flight requirements
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

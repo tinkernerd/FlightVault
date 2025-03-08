@@ -1,18 +1,22 @@
 ---
 title: Change of Scenery
 created_at: 2025-02-16T17:43:59-05:00
-modified_at: 2025-02-16T17:44:34-05:00
+modified_at: 2025-02-18T18:35:20-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Air Traffic
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 2 - Practicing Landings
+Chapter: Chapter 2
 status: Active
+lesson: 8
 ---
->[[Private Pilot License (PPL) Notes |All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
+
 
 It's normal for student pilots to occasionally feel less excited about repetitive training maneuvers. This section provides suggestions to revitalize your enthusiasm by introducing variety into your flight lessons.
 

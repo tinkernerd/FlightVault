@@ -4,37 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "aa9bd5d3217cdfd9",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "136e8115da4f3e7f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Aviation Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Aviation Resources"
+            }
+          },
+          {
+            "id": "75394c1f93feae2d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🏠 Homepage.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "🏠 Homepage"
-            }
-          },
-          {
-            "id": "b57ebc0d0005a04f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Aircraft Systems.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aircraft Systems"
             }
           }
         ],
@@ -70,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image 20210820155913",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306
+    "width": 307
   },
   "right": {
     "id": "993c486477069ae0",
@@ -111,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Aircraft Systems.md",
+                "file": "Notes/Aviation Resources.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +124,7 @@
                   "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": true,
@@ -134,30 +136,59 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6389317535948076,
+                  "scale": 0.15934627295129133,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Aircraft Systems"
+              "title": "Graph of Aviation Resources"
             }
           },
           {
-            "id": "795e6f4e06fc1af3",
+            "id": "45d45b4e031ff8ed",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "trash",
+              "title": "Trash explorer"
+            }
+          },
+          {
+            "id": "53705c0c85f6e934",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aviation Resources.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aviation Resources"
+            }
+          },
+          {
+            "id": "09d570f045d68ded",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/FAR/FAR - Volume 1.md",
+                "file": "Aviation Resources.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from FAR - Volume 1"
+              "title": "Outgoing links from Aviation Resources"
             }
           },
           {
-            "id": "5b83b4354f42abbd",
+            "id": "7200981f3776aa07",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,22 +203,50 @@
             }
           },
           {
-            "id": "fd8f329b679421f7",
+            "id": "f5f490cc500c5a51",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "all-properties",
               "state": {
-                "file": "Notes/Python NumPy.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Python NumPy"
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "093d5e1ab85c93f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aaba83df8f56b6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Notes/Aviation Resources.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Aviation Resources"
+            }
+          },
+          {
+            "id": "0031fcc8c08d3795",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assets/Attachments/Documents/PPL Cheat Sheet.pdf",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PPL Cheat Sheet"
             }
           },
           {
@@ -200,101 +259,73 @@
               "title": "Broken links"
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "52f53211c4fa6d83",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1aaba83df8f56b6c",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Notes/Aircraft Systems.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Aircraft Systems"
-            }
-          },
-          {
-            "id": "0031fcc8c08d3795",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes/Bible/The Bible.md",
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of The Bible"
-            }
-          },
-          {
-            "id": "41fc7815c5baac76",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "45d45b4e031ff8ed",
-            "type": "leaf",
-            "state": {
-              "type": "trash-explorer",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 365
+    "width": 365,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
       "broken-links:View broken links": false,
       "callout-manager:Insert Callout": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "homepage:Open homepage": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-git:Open Git source control": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "homepage:Open homepage": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "b57ebc0d0005a04f",
+  "active": "edc2ec343b41aae3",
   "lastOpenFiles": [
-    "Notes/Airport Diagrams.md",
-    "Notes/Aircraft Systems.md",
-    "Notes/Air Traffic Control.md",
-    "Notes/Quote Book.md",
+    "Notes/Aviation Resources.md",
     "🏠 Homepage.md",
-    "Notes/C203 Home.md",
-    "Notes/C203/C203 Week 6.md",
-    "Notes/C203/C203 Week 4.md",
-    "Notes/C203/C203 Week 3.md",
-    "Notes/C203/C203 Week 1.md",
-    "Notes/C203/C203 Home.md",
+    "Notes/Aerodynamics.md",
+    "Notes/Aeronautical Information Manual.md",
+    "Notes/Dowagiac Municipal Airport (C91).md",
+    "Notes/Notices to Airmen.md",
+    "Notes/Weather Overview.md",
+    "Notes/AIM/AIM - Airport Operations.md",
+    "Notes/Radio Communications Cheat Sheet.md",
+    "Assets/Attachments/Documents/VFR Symbols.pdf",
+    "Assets/Attachments/Documents/VFR Flight Planner.pdf",
+    "Assets/Attachments/Documents/VFR Communications for Idiots.pdf",
+    "Assets/Attachments/Documents/Use of Electronic Flight Bags - Advisory Circular.pdf",
+    "Assets/Attachments/Documents/Sporty's Flight Plan Form.pdf",
+    "Assets/Attachments/Documents/Right of Way Rules and Collision Avoidance - Advisory Circular.pdf",
+    "Assets/Attachments/Documents/Pilot’s Handbook of Aeronautical Knowledge.pdf",
+    "Assets/Attachments/Documents/PA-28-140 Stall Series Sheet.pdf",
+    "Assets/Attachments/Documents/METAR-TAF Card.pdf",
+    "Assets/Attachments/Documents/Learn to Fly Ebook.pdf",
+    "Aviation Resources.canvas",
+    "Assets/Templates/Insertion Template/toc.md",
+    "Notes/Airventure Air Show.md",
+    "Notes/Rules to Fly By.md",
+    "Notes/Private Pilot License (PPL) Notes.md",
+    "Notes/Closer Look - Self-Serve Fuel.md",
+    "Notes/ForeFlight Weather Imagery.md",
+    "Notes/Lost and Found.md",
+    "Notes/Closer Look - ASOS - Behind the Scenes.md",
+    "Notes/Flying Out of Trouble.md",
+    "Notes/Air Facts - Calm in the Clouds.md",
+    "Notes/PPL Regulations.md",
+    "Notes/Airport Signs and Markings.md",
+    "Notes/Normal Airspace.md",
+    "Notes/Sporty's E6B - Flight Planning and FAA Test Prep.md",
+    "Notes/All Notes.md",
+    "Inbox.md",
+    "Notes/Quote Book.md",
+    "Assets/Attachments/Images/Traffic Pattern illustration - C91.jpg",
+    "Assets/Attachments/HomeBanner.png",
     "Assets/assets/T101_3_019.png",
     "Assets/assets/T101_2_041.png",
     "Assets/assets/T101_2_019.png",
@@ -302,33 +333,6 @@
     "Assets/assets/T101_1_007.png",
     "Assets/assets/T101_1_001.png",
     "Assets/assets/Pasted image 20220814224430.png",
-    "Notes/T101/T101T.md",
-    "Notes/T101/T101 Week 5.md",
-    "Assets/assets/T101_1_019.png",
-    "Assets/assets/T101_1_021.png",
-    "Assets/assets/T101_2_001.png",
-    "Assets/assets/V T101 Week 2.md",
-    "Assets/assets/V T101 Humidity.md",
-    "Assets/assets/V PlaneLauncher.md",
-    "Assets/assets/V 101 The Nature of Flight.md",
-    "Assets/assets/V 101 Composition of the Atmosphere.md",
-    "Assets/assets/QB/Q00003.md",
-    "Assets/assets/QB/Q00002.md",
-    "Assets/Attachments/Slides/TemplateBuild.md",
-    "Assets/Attachments/Slides/SSG Slides Test.md",
-    "Assets/Attachments/Slides/Obelisk Writeable.md",
-    "Assets/Attachments/Slides/JBSlideTest.md",
-    "Assets/Attachments/Slides/Inside Slides Test.md",
-    "Assets/Attachments/Slides/Another Slideshow example.md",
-    "Assets/Attachments/FAA_Order_6850.2C.pdf",
-    "Notes/ATAT/T110/PDF/T110T SSGW01.pdf",
-    "Notes/ATAT/T110/PDF/T110T Intro.pdf",
-    "Notes/ATAT/T110/PDF/Math Support for Faculty_updated.pdf",
-    "Notes/ATAT/T110/PDF/ATAT_110.pdf",
-    "Faculty/Student/Content/ATAV/V203",
-    "Faculty/Student/Content/ATAV",
-    "Faculty/Student/Content",
-    "Faculty/Student",
-    "Faculty"
+    "Assets/assets/T101_1_019.png"
   ]
 }

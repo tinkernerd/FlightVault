@@ -1,10 +1,10 @@
 ---
-title: Airport Operations
+title: AIM - Airport Operations
 book: Aeronautical Information Manual
 chapter: chapter04
 type: Resource
 topic:
-  - Airport
+  - Airport Operations
 dateUpdated: 2025-01-31T22:04:12
 created_at: 2025-01-31T22:04:12
 category: Aviation

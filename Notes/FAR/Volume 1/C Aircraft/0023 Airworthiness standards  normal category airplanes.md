@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0023 Airworthiness standards  normal category airplanes
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

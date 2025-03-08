@@ -1,11 +1,12 @@
 ---
-title: Services Available to Pilots
+title: AIM - Services Available to Pilots
 book: Aeronautical Information Manual
 chapter: chapter04
 type: Resource
 topic:
-  - ATC
-  - Radio
+  - Airport Operations
+  - Communications
+  - Navigation
 dateUpdated: 2025-01-31T22:04:12
 created_at: 2025-01-31T22:04:12
 category: Aviation

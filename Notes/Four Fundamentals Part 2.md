@@ -1,19 +1,22 @@
 ---
-title: 
-description: 
+title: Four Fundamentals Part 2
 created_at: 2025-02-09T00:35:41-05:00
-modified_at: 2025-02-09T00:36:17-05:00
+modified_at: 2025-02-18T18:28:17-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Air Traffic
+  - Control
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 24
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section covers the essentials of straight and level flight, climbs, and descents, focusing on techniques for maintaining control and precision in aircraft operation.
 

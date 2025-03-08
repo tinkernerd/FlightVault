@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0247 Direct airport-to-airport mileage records
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

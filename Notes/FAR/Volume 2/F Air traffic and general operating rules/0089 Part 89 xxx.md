@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0089 Part 89 xxx
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 2
 ---

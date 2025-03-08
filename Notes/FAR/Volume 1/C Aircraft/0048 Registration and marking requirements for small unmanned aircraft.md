@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0048 Registration and marking requirements for small unmanned aircraft
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

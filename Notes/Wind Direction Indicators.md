@@ -2,19 +2,21 @@
 title: Wind Direction Indicators
 description: 
 created_at: 2025-02-08T23:58:37-05:00
-modified_at: 2025-02-08T23:59:10-05:00
+modified_at: 2025-02-18T18:25:04-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
   - Weather
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 17
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 Understanding wind direction indicators is crucial for safe takeoffs and landings. This guide explains the common types of wind indicators and how to use them effectively.
 
 ## Importance of Wind Direction:

@@ -1,18 +1,22 @@
 ---
 title: Four Fundamentals
 created_at: 2025-02-09T00:16:25-05:00
-modified_at: 2025-02-09T00:22:35-05:00
+modified_at: 2025-02-18T18:27:10-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Control
+  - Aircraft
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 22
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section covers the four fundamental maneuvers of flight and their importance in controlling an airplane using proper pitch, bank, and power settings.
 

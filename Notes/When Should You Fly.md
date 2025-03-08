@@ -8,11 +8,14 @@ topic:
 tags:
   - aviation
   - classnotes
-  - ppl
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
 category: Aviation
+lesson: 1
 ---
+# When Should You Fly?
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 This section discusses the important factors a student pilot should consider when deciding whether to fly, focusing on weather conditions, time of day, and the fundamentals of flight training.
 
 ## The Go/No-Go Decision:

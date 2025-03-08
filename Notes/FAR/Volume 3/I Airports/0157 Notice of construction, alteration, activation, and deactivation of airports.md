@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0157 Notice of construction, alteration, activation, and deactivation of airports
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

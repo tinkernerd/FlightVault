@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0099 Security control of air traffic
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 2
 ---

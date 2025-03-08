@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0067 Medical standards and certification
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 2
 ---

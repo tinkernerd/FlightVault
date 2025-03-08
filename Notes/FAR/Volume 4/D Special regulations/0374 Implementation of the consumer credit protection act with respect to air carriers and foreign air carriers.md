@@ -4,8 +4,7 @@ category: Aviation
 title: 0374 Implementation of the consumer credit protection act with respect to air
   carriers and foreign air carriers
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

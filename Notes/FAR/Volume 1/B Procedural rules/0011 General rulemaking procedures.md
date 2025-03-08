@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0011 General rulemaking procedures
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

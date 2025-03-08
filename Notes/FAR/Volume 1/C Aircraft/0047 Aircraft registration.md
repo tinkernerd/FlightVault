@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0047 Aircraft registration
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

@@ -1,18 +1,21 @@
 ---
 title: Carbureted Engines
 created_at: 2025-02-07T19:55:55-05:00
-modified_at: 2025-02-09T00:11:08-05:00
+modified_at: 2025-02-18T18:19:19-05:00
 category: Aviation
 type: Resource
 topic:
   - Aircraft
-  - Engines
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 10
 ---
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 This section covers the operational differences of carbureted engines in training aircraft, including starting procedures, susceptibility to carburetor icing, and the use of carburetor heat to ensure safe engine operation.
 
 ## Fuel Primers and Choke Systems

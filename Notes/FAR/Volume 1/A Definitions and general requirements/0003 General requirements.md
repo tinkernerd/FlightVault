@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0003 General requirements
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

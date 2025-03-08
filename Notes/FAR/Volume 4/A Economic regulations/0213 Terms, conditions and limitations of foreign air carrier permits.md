@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0213 Terms, conditions and limitations of foreign air carrier permits
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

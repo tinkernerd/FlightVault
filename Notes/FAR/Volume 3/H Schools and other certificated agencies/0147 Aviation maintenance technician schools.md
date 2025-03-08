@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0147 Aviation maintenance technician schools
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

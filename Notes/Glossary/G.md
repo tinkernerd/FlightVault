@@ -1,3 +1,7 @@
+---
+tags:
+  - Glossary
+---
 GATE HOLD PROCEDURES- Procedures at selected airports to hold aircraft at the gate or other ground location whenever departure delays exceed or are anticipated to exceed 15 minutes. The sequence for departure will be maintained in accordance with initial call-up unless modified by flow control restrictions. Pilots should monitor the ground control/clearance delivery frequency for engine start/taxi advisories or new proposed start/taxi time if the delay changes.
 
 GCA-

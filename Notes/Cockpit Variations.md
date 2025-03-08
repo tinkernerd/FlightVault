@@ -1,7 +1,7 @@
 ---
 title: Cockpit Variations
 created_at: 2025-02-07T19:36:53-05:00
-modified_at: 2025-02-09T00:11:02-05:00
+modified_at: 2025-02-18T18:16:05-05:00
 category: Aviation
 topic:
   - Aircraft
@@ -9,10 +9,14 @@ tags:
   - aviation
   - classnotes
   - airplane
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
 type: Resource
+lesson: 6
 ---
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 This section covers the various cockpit variations you may encounter as your flying career progresses. It highlights differences in engine controls, fuel systems, instrument panels, and emphasizes the importance of adapting to different cockpit configurations.
 
 ## Engine Controls Variations

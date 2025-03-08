@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0035 Airworthiness standards  propellers
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

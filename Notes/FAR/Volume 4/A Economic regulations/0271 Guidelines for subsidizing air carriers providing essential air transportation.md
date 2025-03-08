@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0271 Guidelines for subsidizing air carriers providing essential air transportation
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

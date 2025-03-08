@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0161 Notice and approval of airport noise and access restrictions
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

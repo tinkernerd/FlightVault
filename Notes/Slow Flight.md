@@ -1,18 +1,22 @@
 ---
-title: 
+title: Slow Flight
 created_at: 2025-02-14T15:37:25-05:00
-modified_at: 2025-02-14T15:38:09-05:00
+modified_at: 2025-02-23T20:00:09-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Navigation
+  - Control
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 2 - Practicing Landings
+Chapter: Chapter 2
 status: Active
+lesson: 7
 ---
->[[Private Pilot License (PPL) Notes |All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section provides an overview of slow flight, its principles, and the techniques required to perform it safely and effectively. Slow flight is essential for understanding the aircraft's behavior near stall speeds and improving control during critical phases like takeoff and landing.
 

@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0203 Waiver of warsaw convention liability limits and defenses
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0015 Administrative claims under federal tort claims act
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

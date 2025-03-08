@@ -2,19 +2,18 @@
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
+    "extended-colorschemes",
     "callouts",
-    "CalloutsAndCheckboxesHelpbox",
     "Cards",
     "Cards Shadow",
-    "cleandoc",
-    "extended-colorschemes",
+    "Clean Notes",
     "invert image",
     "links",
     "MCL Gallery Cards",
-    "MCL Multi Column",
     "MCL Wide Views",
+    "MCL Multi Column",
     "my-styles",
-    "sidebar"
+    "class-notes"
   ],
   "accentColor": "#0097a7"
 }

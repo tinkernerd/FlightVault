@@ -1,18 +1,22 @@
 ---
 title: Normal Landings
 created_at: 2025-02-16T18:34:00-05:00
-modified_at: 2025-02-16T18:38:09-05:00
+modified_at: 2025-02-18T18:37:17-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - T/O & Landings
+  - Control
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 2 - Practicing Landings
+Chapter: Chapter 2
 status: Active
+lesson: 11
 ---
->[[Private Pilot License (PPL) Notes |All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
  This section provides an overview of normal landing procedures for new student pilots, covering radio communications, traffic pattern entry, approach, and landing techniques.
 

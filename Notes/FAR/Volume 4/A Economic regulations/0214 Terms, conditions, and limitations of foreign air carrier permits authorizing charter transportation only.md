@@ -4,8 +4,7 @@ category: Aviation
 title: 0214 Terms, conditions, and limitations of foreign air carrier permits authorizing
   charter transportation only
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

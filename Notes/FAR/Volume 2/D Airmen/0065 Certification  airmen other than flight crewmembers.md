@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0065 Certification  airmen other than flight crewmembers
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 2
 ---

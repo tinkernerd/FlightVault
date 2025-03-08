@@ -1,7 +1,7 @@
 ---
-title: Airport Marking Aids and Signs
+title: AIM - Airport Marking Aids and Signs
 topic:
-  - Navigation
+  - Airport Operations
 book: Aeronautical Information Manual
 chapter: Chapter02
 type: Resource

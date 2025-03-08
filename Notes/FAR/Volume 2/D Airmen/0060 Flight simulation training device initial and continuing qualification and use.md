@@ -4,8 +4,7 @@ category: Aviation
 title: 0060 Flight simulation training device initial and continuing qualification
   and use
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 2
 ---

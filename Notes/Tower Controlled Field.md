@@ -1,18 +1,21 @@
 ---
 title: Tower Controlled Field
 created_at: 2025-02-09T00:11:12-05:00
-modified_at: 2025-02-09T00:12:30-05:00
+modified_at: 2025-02-18T18:26:14-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Airport Operations
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 20
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section provides an overview of the procedures required to depart from an airport with an air traffic control tower, aimed at new student pilots learning to navigate tower-controlled fields effectively and safely.
 

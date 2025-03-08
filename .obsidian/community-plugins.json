@@ -19,7 +19,12 @@
   "obsidian-meta-bind-plugin",
   "obsidian-trash-explorer",
   "obsidian-auto-link-title",
-  "pexels-banner",
   "obsidian-git",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "pexels-banner",
+  "discord-message-formatter",
+  "obsidian-discordrpc",
+  "obsidian-tasks-plugin",
+  "obsidian-latex-suite",
+  "dbfolder"
 ]

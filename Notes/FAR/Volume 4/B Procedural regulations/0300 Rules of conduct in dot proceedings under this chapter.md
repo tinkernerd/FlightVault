@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0300 Rules of conduct in dot proceedings under this chapter
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

@@ -1,8 +1,6 @@
 ---
 title: Aeronautical Information Manual
 topic:
-  - Aeronautical Information Manual
-  - 3d Printing
   - Reference
 category: Aviation
 book: Aeronautical Information Manual
@@ -11,9 +9,7 @@ dateUpdated: 2025-01-31T22:04:12
 created_at: 2025-01-31T22:04:12
 cssclasses:
   - cleandoc
-banner: https://media.tinkernerd.dev/banners/books.jpg
-tags:
-  - dashboard/aviation
+banner: https://cdn.tinkernerd.dev/banners/books.jpg
 ---
 # Aeronautical Information Manual
 

@@ -7,11 +7,15 @@ topic:
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
 Book: Volume01
 category: Aviation
+lesson: 3
 ---
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 This section introduces the basic principles of flight, the airplane's controls, and the aerodynamics that make it fly.
 
 ## The Four Forces of Flight:

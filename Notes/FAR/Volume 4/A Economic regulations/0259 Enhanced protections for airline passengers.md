@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0259 Enhanced protections for airline passengers
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

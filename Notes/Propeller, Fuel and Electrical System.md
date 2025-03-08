@@ -1,18 +1,21 @@
 ---
 title: Propeller, Fuel and Electrical System
 created_at: 2025-02-07T19:53:24-05:00
-modified_at: 2025-02-08T11:22:37-05:00
+modified_at: 2025-02-18T18:18:50-05:00
 category: Aviation
 type: Resource
 topic:
   - Aircraft
-  - Engines
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 9
 ---
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 These training notes cover the fundamental aspects of the fuel system, propeller, and electrical system in a Cessna 172, providing essential knowledge for new student pilots.
 
 ## Fuel System

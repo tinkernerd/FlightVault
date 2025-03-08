@@ -4,8 +4,7 @@ category: Aviation
 chapter: A
 title: 0000 Index
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

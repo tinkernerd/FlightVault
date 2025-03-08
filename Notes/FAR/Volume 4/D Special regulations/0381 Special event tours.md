@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0381 Special event tours
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

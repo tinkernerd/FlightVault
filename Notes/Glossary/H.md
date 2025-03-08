@@ -1,3 +1,7 @@
+---
+tags:
+  - Glossary
+---
 HAA-
 
 [(See HEIGHT ABOVE AIRPORT.)](https://www.faa.gov/air_traffic/publications/atpubs/pcg_html/glossary-h.html#$HEIGHT%20ABOVE%20AIRPORT)

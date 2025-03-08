@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0171 Non-federal navigation facilities
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

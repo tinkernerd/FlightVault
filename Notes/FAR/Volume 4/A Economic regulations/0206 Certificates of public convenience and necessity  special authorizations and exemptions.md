@@ -4,8 +4,7 @@ category: Aviation
 title: 0206 Certificates of public convenience and necessity  special authorizations
   and exemptions
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

@@ -1,20 +1,21 @@
 ---
 title: Getting the Message
 created_at: 2025-02-08T13:16:05-05:00
-modified_at: 2025-02-09T00:10:56-05:00
+modified_at: 2025-02-18T18:24:20-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
-  - Air Facts
   - Communications
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 15
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 This section focuses on effective communication in aviation, emphasizing the importance of concise radio transmissions, active listening, and proper etiquette to develop professional piloting skills.
 
 ## Effective Aviation Communication:

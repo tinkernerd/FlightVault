@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0193 Protection of voluntarily submitted information
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

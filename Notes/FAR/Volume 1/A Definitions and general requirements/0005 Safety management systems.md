@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0005 Safety management systems
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

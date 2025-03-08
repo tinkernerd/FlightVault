@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0303 Review of air carrier agreements
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

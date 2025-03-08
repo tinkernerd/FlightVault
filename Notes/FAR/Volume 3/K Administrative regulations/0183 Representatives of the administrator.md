@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0183 Representatives of the administrator
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

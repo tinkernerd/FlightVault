@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0323 Terminations, suspensions, and reductions of service
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

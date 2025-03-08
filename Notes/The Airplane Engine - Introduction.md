@@ -1,7 +1,7 @@
 ---
 title: The Airplane Engine - Introduction
 created_at: 2025-02-07T19:46:51-05:00
-modified_at: 2025-02-07T19:48:48-05:00
+modified_at: 2025-02-18T18:17:49-05:00
 category: Aviation
 type: Resource
 topic:
@@ -9,9 +9,13 @@ topic:
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 7
 ---
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 This section introduces the basic principles and components of airplane engines, focusing on four-stroke, internal combustion, reciprocating engines commonly used in training aircraft. Understanding how these engines operate is crucial for new student pilots.
 
 ## Basic Principles of Reciprocating Engines

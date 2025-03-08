@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0021 Certification procedures for products and articles
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

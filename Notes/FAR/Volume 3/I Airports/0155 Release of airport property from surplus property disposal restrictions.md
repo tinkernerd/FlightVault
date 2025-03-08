@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0155 Release of airport property from surplus property disposal restrictions
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

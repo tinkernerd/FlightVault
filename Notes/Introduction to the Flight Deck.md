@@ -1,18 +1,21 @@
 ---
 title: The Flight Deck
 created_at: 2025-02-07T12:11:25-05:00
-modified_at: 2025-02-08T11:42:11-05:00
+modified_at: 2025-02-23T20:08:43-05:00
 category: Aviation
 topic:
-  - Aviation
   - Aircraft
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
 type: Resource
+lesson: 5
 ---
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 This section provides an introduction to the flight deck, covering the cockpit layout, different types of instrument panels, the flight and engine instruments, and the importance of familiarizing oneself with the airplane's controls and systems.
 
 ## Cockpit Overview:

@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0241 Uniform system of accounts and reports for large certificated air carriers
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

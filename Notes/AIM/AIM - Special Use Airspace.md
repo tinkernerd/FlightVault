@@ -3,7 +3,7 @@ title: Special Use Airspace
 book: Aeronautical Information Manual
 chapter: chapter03
 topic:
-  - Airspace
+  - Navigation
 type: Resource
 dateUpdated: 2025-01-31T22:04:12
 created_at: 2025-01-31T22:04:12

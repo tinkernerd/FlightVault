@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0398 Guidelines for individual determinations of basic essential air service
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

@@ -1,18 +1,21 @@
 ---
 title: Stall Rhetoric
 created_at: 2025-02-16T18:32:14-05:00
-modified_at: 2025-02-16T18:33:26-05:00
+modified_at: 2025-02-18T18:37:55-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Control
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 2 - Practicing Landings
+Chapter: Chapter 2
 status: Active
+lesson: 10
 ---
->[[Private Pilot License (PPL) Notes |All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section covers the nature of airplane stalls, their characteristics, recovery techniques, and the importance of coordinated flight to ensure safe flying practices.
 

@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0374 Extension of credit by airlines to federal political candidates
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

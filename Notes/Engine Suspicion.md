@@ -1,18 +1,21 @@
 ---
-title: 
+title: Engine Suspicion
 created_at: 2025-02-14T15:09:00-05:00
-modified_at: 2025-02-14T15:09:34-05:00
+modified_at: 2025-02-18T18:31:58-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Aircraft
 tags:
   - aviation
   - classnotes
-Chapter: "Chapter #"
+Chapter: Chapter 2
 status: Active
+lesson: 4
 ---
->[[Private Pilot License (PPL) Notes |All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section emphasizes the importance of careful engine operation, starting from basic trainers to advanced turbocharged airplanes. It highlights the significance of being vigilant about engine performance to maintain safety in flight.
 

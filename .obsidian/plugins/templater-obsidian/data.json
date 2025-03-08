@@ -21,6 +21,10 @@
     {
       "folder": "Notes/Quick Notes",
       "template": "Assets/Templates/Quick Note Template.md"
+    },
+    {
+      "folder": "Notes/Formulas",
+      "template": "Assets/Templates/Formulas.md"
     }
   ],
   "enable_file_templates": false,

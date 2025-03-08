@@ -4,8 +4,7 @@ category: Aviation
 title: 0218 Lease by foreign air carrier or other foreign person of aircraft with
   crew
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

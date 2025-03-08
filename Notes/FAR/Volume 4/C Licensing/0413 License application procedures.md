@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0413 License application procedures
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

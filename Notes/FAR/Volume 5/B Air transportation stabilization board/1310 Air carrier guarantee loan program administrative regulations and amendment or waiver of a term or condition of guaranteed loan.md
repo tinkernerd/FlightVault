@@ -4,8 +4,7 @@ category: Aviation
 title: 1310 Air carrier guarantee loan program administrative regulations and amendment
   or waiver of a term or condition of guaranteed loan
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 5
 ---

@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0016 Rules of practice for federally-assisted airport enforcement proceedings
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

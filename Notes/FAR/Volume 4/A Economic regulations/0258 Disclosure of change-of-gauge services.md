@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0258 Disclosure of change-of-gauge services
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

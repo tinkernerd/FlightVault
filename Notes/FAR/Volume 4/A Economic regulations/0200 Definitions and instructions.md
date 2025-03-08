@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0200 Definitions and instructions
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

@@ -1,19 +1,21 @@
 ---
-title: 
-description: 
+title: Takeoff
 created_at: 2025-02-09T00:01:31-05:00
-modified_at: 2025-02-09T00:10:17-05:00
+modified_at: 2025-02-18T18:25:33-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - T/O & Landings
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 18
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section introduces the basics of takeoff procedures, emphasizing the steps and considerations for a safe and effective departure, especially for new student pilots.
 

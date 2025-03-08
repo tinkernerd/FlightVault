@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0375 Navigation of foreign civil aircraft within the united states
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

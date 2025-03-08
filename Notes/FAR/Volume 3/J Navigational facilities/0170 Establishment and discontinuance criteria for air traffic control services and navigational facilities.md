@@ -4,8 +4,7 @@ category: Aviation
 title: 0170 Establishment and discontinuance criteria for air traffic control services
   and navigational facilities
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

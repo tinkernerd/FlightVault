@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0036 Noise standards  aircraft type and airworthiness certification
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

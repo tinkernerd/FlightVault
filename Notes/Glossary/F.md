@@ -1,3 +1,7 @@
+---
+tags:
+  - Glossary
+---
 FAA-RECOGNIZED IDENTIFICATION AREA (FRIA)- A defined geographic area where persons can operate UAS without remote identification, provided they maintain visual line of sight.
 
 FAF-

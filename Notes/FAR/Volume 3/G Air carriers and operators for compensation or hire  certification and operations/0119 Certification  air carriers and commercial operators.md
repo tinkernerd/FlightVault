@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0119 Certification  air carriers and commercial operators
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

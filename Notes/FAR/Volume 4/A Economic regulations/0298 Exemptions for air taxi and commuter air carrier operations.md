@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0298 Exemptions for air taxi and commuter air carrier operations
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

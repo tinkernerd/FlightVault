@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0223 Free and reduced-rate transportation
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

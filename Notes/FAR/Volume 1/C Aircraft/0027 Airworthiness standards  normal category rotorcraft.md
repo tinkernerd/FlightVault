@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0027 Airworthiness standards  normal category rotorcraft
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

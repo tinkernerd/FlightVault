@@ -1,18 +1,21 @@
 ---
 title: The Proper Attitude
 created_at: 2025-02-09T00:51:29-05:00
-modified_at: 2025-02-09T00:52:03-05:00
+modified_at: 2025-02-18T18:28:50-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Control
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 25
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section explains the concept of angle of attack and its importance in understanding stalls and safe flight practices for student pilots.
 

@@ -3,10 +3,10 @@ title: Events in Aviation
 category: Aviation
 topic:
   - Events
-type: Dashboard
+type: Resource
 status: Active
 created_at: 2024-12-30
-banner: "https://live.staticflickr.com/65535/53081648415_80d255e4ba_b_d.jpg"
+banner: https://live.staticflickr.com/65535/53081648415_80d255e4ba_b_d.jpg
 dateUpdated: 2025-01-31T14:41:48
 cssclasses:
   - cleandoc
@@ -55,25 +55,4 @@ Aviation events are a great way to connect with fellow enthusiasts, learn about 
 	- Hosts community fly-ins, safety seminars, and youth aviation programs.
 	- [Learn more about Dowagiac Airport](https://skyvector.com/airport/C91/Dowagiac-Municipal-Airport)
 
----
 
-# 🌍 Useful Event Resources:
-- [EAA Events Calendar](https://www.eaa.org/eaa/events)
-- [FAA Aviation Events](https://www.faa.gov/newsroom/events)
-- [AOPA Community Calendar](https://www.aopa.org/community/events)
-- [SkyVector Airport Events](https://skyvector.com/)
-
-
----
-## Event Notes
-`$=dv.list(dv.pages().where(p => p.category == "Aviation" && p.topic == "Events" ).sort(f => f.file.name, "asc").file.link)`
-
----
-
-```plaintext
-     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-  ~ ~   Fly safe!   ~ ~
-     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-```
-
-Get involved and be inspired by the world of aviation. Remember: Sharing the passion for flight brings us closer together!

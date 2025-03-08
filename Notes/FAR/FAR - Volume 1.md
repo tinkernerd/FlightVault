@@ -2,7 +2,6 @@
 book: Federal Aviation Regulations
 category: Aviation
 topic:
-  - Federal Aviation Regulations
   - Reference
 type: Resource
 volume: 1

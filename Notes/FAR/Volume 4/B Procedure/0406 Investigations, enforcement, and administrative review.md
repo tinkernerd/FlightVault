@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0406 Investigations, enforcement, and administrative review
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

@@ -4,8 +4,7 @@ category: Aviation
 title: 0034 Fuel venting and exhaust emission requirements for turbine engine powered
   airplanes
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

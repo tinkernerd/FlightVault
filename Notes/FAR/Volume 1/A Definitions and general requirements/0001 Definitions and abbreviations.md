@@ -3,7 +3,6 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0001 Definitions and abbreviations
 topic:
-  - Federal Aviation Regulations
   - Reference
 type: Resource
 volume: 1

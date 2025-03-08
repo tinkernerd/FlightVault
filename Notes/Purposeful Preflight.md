@@ -1,18 +1,21 @@
 ---
 title: Purposeful Preflight
 created_at: 2025-02-07T20:15:16-05:00
-modified_at: 2025-02-09T00:10:35-05:00
+modified_at: 2025-02-18T18:20:19-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
-  - Air Facts
+  - Airport Operations
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 12
 ---
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 The preflight inspection is an essential practice for pilots to ensure safety before every flight. This guide emphasizes the importance of a purposeful preflight, especially for student pilots beginning their aviation journey.
 
 ## Importance of a Thorough Preflight Inspection:

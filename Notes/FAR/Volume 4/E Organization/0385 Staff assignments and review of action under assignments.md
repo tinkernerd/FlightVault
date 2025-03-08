@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0385 Staff assignments and review of action under assignments
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

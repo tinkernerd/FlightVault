@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0151 Federal aid to airports
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

@@ -1,17 +1,21 @@
 ---
 title: Preflight
 created_at: 2025-02-07T19:57:34-05:00
-modified_at: 2025-02-08T11:55:24-05:00
+modified_at: 2025-02-18T18:19:58-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Airport Operations
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 11
 ---
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 This section covers the essential steps and considerations for conducting a thorough preflight inspection to ensure aircraft safety before takeoff.
 
 ## Introduction to Preflight Inspection:

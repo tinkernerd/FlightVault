@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0405 Compliance and enforcement
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

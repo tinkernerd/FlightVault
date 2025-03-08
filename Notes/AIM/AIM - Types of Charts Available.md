@@ -4,7 +4,7 @@ book: Aeronautical Information Manual
 chapter: chapter09
 type: Resource
 topic:
-  - Charts
+  - Navigation
 dateUpdated: 2025-01-31T22:04:12
 created_at: 2025-01-31T22:04:12
 category: Aviation

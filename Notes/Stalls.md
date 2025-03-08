@@ -1,18 +1,21 @@
 ---
 title: Stalls
 created_at: 2025-02-16T17:45:06-05:00
-modified_at: 2025-02-16T17:47:38-05:00
+modified_at: 2025-02-18T18:35:39-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Control
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 2 - Practicing Landings
+Chapter: Chapter 2
 status: Active
+lesson: 9
 ---
->[[Private Pilot License (PPL) Notes |All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section covers the fundamentals of stalls, their types, how to recognize and recover from them, and emphasizes the importance of practicing stall recovery techniques for new student pilots.
 

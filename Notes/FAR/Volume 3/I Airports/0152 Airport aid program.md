@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0152 Airport aid program
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 3
 ---

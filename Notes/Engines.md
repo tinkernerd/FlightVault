@@ -1,18 +1,21 @@
 ---
 title: Engines
 created_at: 2025-02-14T14:54:49-05:00
-modified_at: 2025-02-14T14:56:23-05:00
+modified_at: 2025-02-18T18:31:08-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Aircraft
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 2 - Practicing Landings
+Chapter: Chapter 2
 status: Active
+lesson: 3
 ---
->[[Private Pilot License (PPL) Notes |All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section covers the fundamentals of internal combustion engines in aircraft, the importance of proper fuel-air mixture, and how to manage engine operations for safe and efficient flying.
 

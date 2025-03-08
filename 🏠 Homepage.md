@@ -1,63 +1,40 @@
 ---
 title: Aviation Adventures
-tags:
-  - aviation
-  - dashboard
-  - dashboard/aviation
-  - homepage
-  - followup
 banner: https://live.staticflickr.com/65535/53080837012_b52774d634_o_d.jpg
 banner_x: 0.5
 cssclasses:
-  - dashboard
+  - cleandoc
 banner_y: 0.54
 category: Aviation
-type: Dashboard/L1
+type: Dashboard
 ---
-![[HomeBanner 1.png]]
-___
-
-Welcome, future aviators, to the **Aviation Adventures** section! Whether you're gunning for that coveted Private Pilot's License (PPL) or just want to geek out over sectional charts, weather reports, or airport codes, you're in the right place. Buckle up, set your altimeter, and prepare for takeoff!
-
-```plaintext
-__|__
-\___/
- | |
- | |
-_|_|______________
-        /|\ 
-      */ | \*
-      / -+- \
-  ---o--(_)--o---
-    /  0 " 0  \
-  */     |     \*
-  /      |      \
-*/       |       \*
-```
-
-## ✈️ Explore Your Aviation Notes:
-- [[Quote Book]]
-### Main Topics
-- [[Air Traffic Control]]
-- [[Aircraft Systems]]
-- [[Aviation Airspace]]
-- [[Aviation Charts]]
-- [[Aviation Weather]]
-- [[Emergencies in Aviation]]
-- [[Aviation Events]]
-- [[Aviation Medical]]
-- [[Aviation Navigation]]
-- [[Notices to Airmen]]
-- [[Safety Within Aviation]]
-
----
-### Books
-- [[Aeronautical Information Manual]]
-- [[Federal Aviation Regulations]]
----
-
-### Courses
-- [[Private Pilot License (PPL) Notes]]
-
+![Flight Banner](https://cdn.tinkernerd.dev/banners/FlightBanner.png)
 Fly safe, and remember: the sky isn't the limit—it’s just the beginning!
+___
+## Notes
+- [[Quote Book]]
+- [[Aviation Resources.canvas|Aviation Resources]]
+- [[Notes Todo]]
+- [[Private Pilot License (PPL) Notes]]
+### Topics
+- [[All Notes#Air Traffic|Air Traffic]]
+- [[All Notes#Aircraft|Aircraft]]
+- [[All Notes#Airport Operations|Airport Operations]]
+- [[All Notes#Communication|Communication]]
+- [[All Notes#Controlling The Aircraft|Controlling The Aircraft]]
+- [[All Notes#Emergencies|Emergencies]]
+- [[All Notes#Events|Events]]
+- [[All Notes#Helicopter|Helicopter]]
+- [[All Notes#Medical|Medical]]
+- [[All Notes#Navigation|Navigation]]
+- [[All Notes#Planning|Planning]]
+- [[All Notes#Safety|Safety]]
+- [[All Notes#T/O & Landings|T/O & Landings]]
+- [[All Notes#Weather|Weather]]
 
+> * Add the topics header link if new one created.
+
+## To Do
+```dataviewjs
+await dv.view("Assets/Scripts/dvScripts/taskido", {pages: "", view: "month", firstDayOfWeek: "1", options: "style1"})
+```

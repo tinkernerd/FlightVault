@@ -5,55 +5,41 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"category\":bible]",
+      "query": "path:Notes/Glossary  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "[\"category\":development]",
+      "query": "[\"book\":\"Aeronautical Information Manual\"]",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "[\"category\":electrical]",
+      "query": "[\"book\":\"Federal Aviation Regulations\"]",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "[\"category\":info tech]",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "[\"category\":radio]",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "[\"category\":Aviation]",
+      "query": "tag:#classnotes  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "[\"category\":Recipies]",
+      "query": "path:Notes/Formulas  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 5431473
       }
     }
   ],
@@ -67,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.844836270482671,
+  "scale": 0.18117744963956128,
   "close": true
 }

@@ -1,18 +1,21 @@
 ---
 title: Engine Start
 created_at: 2025-02-08T11:12:38-05:00
-modified_at: 2025-02-08T12:17:37-05:00
+modified_at: 2025-02-18T18:20:46-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Airport Operations
+  - Aircraft
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 13
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
 
 This section covers the standard procedures for safely starting the engine of a Cessna 172, emphasizing both safety and following checklists for reliable operations.
 

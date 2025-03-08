@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0029 Airworthiness standards  transport category rotorcraft
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0313 Implementation of the energy policy and conservation act
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

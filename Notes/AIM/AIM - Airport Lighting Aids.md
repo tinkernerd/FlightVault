@@ -1,5 +1,5 @@
 ---
-title: Airport Lighting Aids
+title: AIM - Airport Lighting Aids
 topic:
   - Navigation
   - Airport Operations

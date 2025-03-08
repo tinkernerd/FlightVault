@@ -1,44 +1,47 @@
 ---
 title: Aerodynamics
 created_at: 2025-02-14T15:29:34-05:00
-modified_at: 2025-02-14T15:31:01-05:00
+modified_at: 2025-03-08T17:56:19-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Control
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 2 - Practicing Landings
+Chapter: Chapter 2
 status: Active
+lesson: 5
 ---
->[[Private Pilot License (PPL) Notes |All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
 
 This section covers the fundamental principles of aerodynamics, including the four forces acting on an airplane, the concepts of lift, weight, thrust, drag, and how they influence flight performance and control.
 
 ## The Four Forces of Flight:
 
-1. Lift:
-    1. Opposes the downward force of gravity.
-    2. Produced by the dynamics of air acting on the wing.
-2. Weight:
-    1. The total load of the airplane.
-    2. Pulls the airplane downward due to gravity.
-    3. Opposes lift.
-3. Thrust:
-    1. The forward force produced by the engine and propeller.
-    2. Propels the airplane through the air.
-4. Drag:
-    1. The rearward force that opposes thrust.
-    2. Two types of drag:
-        1. Induced Drag:
-            1. Result of the wing creating lift.
-            2. Caused by pressure differences between the upper and lower wing surfaces.
-            3. Creates vortices, strongest at the wing tips.
-            4. Impossible to eliminate but can be reduced with design features like winglets.
-        2. Parasite Drag:
-            1. Caused by the airplane's fuselage and protrusions disrupting airflow.
-            2. Increases with airspeed.
+### Lift:
+1. Opposes the downward force of gravity.
+2. Produced by the dynamics of air acting on the wing.
+![How Lift Work](https://cdn.tinkernerd.dev/aviation/how-the-fck-does-lift-work.png)
+### Weight:
+1. The total load of the airplane.
+2. Pulls the airplane downward due to gravity.
+3. Opposes lift.
+### Thrust:
+1. The forward force produced by the engine and propeller.
+2. Propels the airplane through the air.
+### Drag:
+1. The rearward force that opposes thrust.
+2. Two types of drag:
+	1. Induced Drag:
+		1. Result of the wing creating lift.
+		2. Caused by pressure differences between the upper and lower wing surfaces.
+		3. Creates vortices, strongest at the wing tips.
+		4. Impossible to eliminate but can be reduced with design features like winglets.
+	2. Parasite Drag:
+		1. Caused by the airplane's fuselage and protrusions disrupting airflow.
+		2. Increases with airspeed.
 
 ## Balance of Forces:
 
@@ -89,7 +92,6 @@ This section covers the fundamental principles of aerodynamics, including the fo
     2. Important to manage AoA to prevent stalls.
 
 ## Wingtip Vortices and Induced Drag:
-
 1. Wingtip Vortices:
     1. Result from pressure differences at the wing tips.
     2. High-pressure air below the wing spills over to low-pressure area above.
@@ -124,7 +126,6 @@ This section covers the fundamental principles of aerodynamics, including the fo
     2. Enhance lateral control at high AoA.
 
 ## Left-Turning Tendencies in Propeller Aircraft:
-
 1. Caused by four main factors:
     1. Torque Effect:
         1. Engine and propeller rotate clockwise (from pilot's view).
@@ -137,8 +138,8 @@ This section covers the fundamental principles of aerodynamics, including the fo
         2. Applied force is felt 90 degrees ahead in the direction of rotation.
         3. More pronounced in tailwheel aircraft during takeoff.
     4. P-Factor (Asymmetric Propeller Loading):
-        4. At high AoA, descending blade on right has higher AoA than ascending blade.
-        5. Produces more thrust on right side, causing yaw to the left.
+        1. At high AoA, descending blade on right has higher AoA than ascending blade.
+        2. Produces more thrust on right side, causing yaw to the left.
 2. Correction Methods:
     1. Aircraft design features to counteract left-turning tendencies at cruise.
     2. Pilot inputs using rudder to maintain coordinated flight.

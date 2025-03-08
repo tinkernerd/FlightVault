@@ -4,8 +4,7 @@ category: Aviation
 title: 0026 Continued airworthiness and safety improvements for transport category
   airplanes
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

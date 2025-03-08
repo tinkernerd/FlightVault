@@ -2,18 +2,23 @@
 title: Notices to Airmen
 category: Aviation
 topic:
-  - NOTAMs
   - Navigation
-type: Dashboard
+  - Communications
+  - Planning
+type: Resource
 status: Active
 created_at: 2024-12-30
-banner: https://media.tinkernerd.dev/banners/notams.png
+banner: https://cdn.tinkernerd.dev/banners/notams.png
 dateUpdated: 2025-01-31T14:41:48
 cssclasses:
   - cleandoc
 banner_y: 0.377
+tags:
+  - classnotes
 ---
 # Notices to Airmen (NOTAMs)
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 NOTAMs (Notices to Airmen) are critical pieces of information that every pilot must review before a flight. They provide real-time updates on conditions and restrictions that could affect your flight. This guide covers the types of NOTAMs and offers resources to ensure you're always up to date.
 
@@ -55,14 +60,3 @@ NOTAMs (Notices to Airmen) are critical pieces of information that every pilot m
 - Always review NOTAMs during preflight planning.
 - Use online tools, aviation apps, or consult ATC for the latest information.
 
----
-
-# 🌍 Useful NOTAM Resources:
-- [FAA NOTAM Search](https://notams.aim.faa.gov/notamSearch/)
-- [SkyVector NOTAM Overlay](https://skyvector.com/)
-- [ForeFlight App](https://foreflight.com/)
-- [AOPA NOTAM Guide](https://www.aopa.org/)
-
-
-
-Always review NOTAMs before flight and be prepared to adjust your plans if necessary. Remember: An informed pilot is a safe pilot!

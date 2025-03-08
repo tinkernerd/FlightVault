@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0014 Rules implementing the equal access to justice act of 1980
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 1
 ---

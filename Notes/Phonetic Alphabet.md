@@ -1,17 +1,18 @@
 ---
 title: Phonetic Alphabet
-created_at: 2024-04-09
-topic:
-  - ATC
-  - Navigation
-  - Communications
-status: Archive
-type: Resource
+created_at: 2025-03-02T14:25:26-05:00
+modified_at: 2025-03-02T14:26:30-05:00
 category: Aviation
-outline: deep
+type: Resource
+topic:
+  - Communications
+tags:
+  - aviation
+  - classnotes
+status: Active
 ---
-
-## Phonetic Alphabet
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
 
 The **NATO Phonetic Alphabet** is used in aviation to ensure clear and accurate communication over radio transmissions. Each letter of the alphabet corresponds to a standardized word to avoid misunderstandings caused by static, similar-sounding letters, or language differences.
 

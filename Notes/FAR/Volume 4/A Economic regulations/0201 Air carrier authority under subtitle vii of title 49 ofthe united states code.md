@@ -4,8 +4,7 @@ category: Aviation
 title: 0201 Air carrier authority under subtitle vii of title 49 ofthe united states
   code
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 4
 ---

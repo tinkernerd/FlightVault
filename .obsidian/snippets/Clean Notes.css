@@ -1,0 +1,40 @@
+
+/* Title at top of the document */
+.cleandoc .markdown-preview-section .title {
+  top: 60px;
+  position: absolute;
+  font-size: 26pt !important;
+  font-weight: bolder;
+  letter-spacing: 8px;
+}
+
+
+.cleandoc h1 {
+  border-bottom-style: dotted !important;
+  border-width: 1px !important;
+  padding-bottom: 3px !important;
+}
+
+.cleandoc h2 {
+  border-bottom-style: dotted !important;
+  border-width: 1px !important;
+  padding-bottom: 3px !important;
+}
+
+/* Lessen the space between the title and the dataview table/lists */
+/* source: https://www.genspark.ai/spark/enhancing-header-and-dataview-spacing-in-obsidian/7d6492b7-2071-48bc-b9e3-53626b867493*/
+.cleandoc .cm-header-1, .cm-header-2, .cm-header-3 {
+  margin-bottom: 10px; /* Adjust this value as needed */
+}
+.cleandoc .dataview {
+  margin-top: 5px; /* Adjust this value as needed */
+  margin-bottom: 5px; /* Adjust this value as needed */
+}
+
+.cleandoc .markdown-preview-section h1, .markdown-preview-section h2, .markdown-preview-section h3 {
+  margin-bottom: 5px; /* Adjust this value as needed */
+}
+.cleandoc .markdown-preview-section .dataview {
+  margin-top: 2px; /* Adjust this value as needed */
+  margin-bottom: 2px
+}

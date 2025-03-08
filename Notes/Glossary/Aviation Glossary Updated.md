@@ -5,10 +5,10 @@ modified_at: 2025-02-13T08:33:37-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Reference
 tags:
   - aviation
-  - classnotes
+  - Glossary
 status: Active
 ---
 # Pilot/Controller Glossary
@@ -116,7 +116,7 @@ An FAA publication, advisory and descriptive in nature, which is not regulatory.
 The appropriate frequency to be used for Airport Advisory Service.
 >See [[#Local Airport Advisory]]
 >See [[#UNICOM]]
->Refer to [[ac_90-66c.pdf|AC 90-66, Non-Towered Airport Flight Operations.]]
+>Refer to [[AC 90-66c.pdf|AC 90-66, Non-Towered Airport Flight Operations.]]
 >Refer to [[Aeronautical Information Manual|AIM]]
 ### ADVISORY SERVICE
 Advice and information provided by a facility to assist pilots in the safe conduct of flight and aircraft movement.
@@ -387,7 +387,7 @@ An airport lighting facility which provides visual guidance to landing aircraft 
 14.  RLLS- Runway Lead-in Light System Consists of one or more series of flashing lights installed at or near ground level that provides positive visual guidance along an approach path, either curving or straight, where special problems exist with hazardous terrain, obstructions, or noise abatement procedures.
 15.  RAIL- Runway Alignment Indicator Lights- Sequenced Flashing Lights which are installed only in combination with other light systems.
 16.  ODALS- Omnidirectional Approach Lighting System consists of seven omnidirectional flashing lights located in the approach area of a nonprecision runway. Five lights are located on the runway centerline extended with the first light located 300 feet from the threshold and extending at equal intervals up to 1,500 feet from the threshold. The other two lights are located, one on each side of the runway threshold, at a lateral distance of 40 feet from the runway edge, or 75 feet from the runway edge when installed on a runway equipped with a VASI.
-> Refer to [[FAA_Order_6850.2C.pdf|FAA Order JO 6850.2, Visual Guidance Lighting Systems]]
+> Refer to [[FAA Order 6850.2C.pdf|FAA Order JO 6850.2, Visual Guidance Lighting Systems]]
     
 #### Runway Lights/Runway Edge Lights
 Lights having a prescribed angle of emission used to define the lateral limits of a runway. Runway lights are uniformly spaced at intervals of approximately 200 feet, and the intensity may be controlled or preset.

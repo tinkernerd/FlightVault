@@ -1,19 +1,21 @@
 ---
-title: 
-description: 
+title: Pitching and Turning
 created_at: 2025-02-09T00:33:18-05:00
-modified_at: 2025-02-09T00:34:32-05:00
+modified_at: 2025-02-18T18:27:43-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Control
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 23
 ---
-[[Private Pilot License (PPL) Notes | All Class Notes]]
+# `= this.title`
+> [[Private Pilot License (PPL) Notes |All Class Notes]]
+
 
 This section covers the importance of pitch control during turns and how understanding control feedback from the airplane helps maintain safe flying practices.
 

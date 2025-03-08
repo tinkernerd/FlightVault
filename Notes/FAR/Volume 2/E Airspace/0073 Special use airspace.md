@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0073 Special use airspace
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 2
 ---

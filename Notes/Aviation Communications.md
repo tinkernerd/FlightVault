@@ -1,16 +1,17 @@
 ---
 title: Aviation Communications
 created_at: 2025-02-08T12:18:53-05:00
-modified_at: 2025-02-08T12:54:57-05:00
+modified_at: 2025-03-04T17:58:43-05:00
 category: Aviation
 type: Resource
 topic:
-  - Aviation
+  - Communications
 tags:
   - aviation
   - classnotes
-Chapter: Chapter 1 - Your First Few Hours
+Chapter: Chapter 1
 status: Active
+lesson: 14
 ---
 [[Private Pilot License (PPL) Notes | All Class Notes]]
 This section introduces the fundamental of aviation communications, covering standard radio procedures, proper phraseology, and communication techniques essential from student pilots.

@@ -3,8 +3,7 @@ book: Federal Aviation Regulations
 category: Aviation
 title: 0061 Certification  pilots, flight instructors, and ground instructors
 topic:
-- Federal Aviation Regulations
-- Reference
+  - Reference
 type: Resource
 volume: 2
 ---
