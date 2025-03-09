@@ -1,18 +1,20 @@
 ---
-title: Drag
-created_at: 2025-02-23T21:47:35-05:00
-modified_at: 2025-02-23T21:56:30-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-23 21:47:35-05:00
+dg-publish: true
 lesson: 19
+modified_at: 2025-02-23 21:56:30-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Drag
+topic:
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

@@ -1,14 +1,16 @@
 ---
-title: Special Use Airspace
 book: Aeronautical Information Manual
-chapter: chapter03
-topic:
-  - Navigation
-type: Resource
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter03
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Special Use Airspace
+topic:
+- Navigation
+type: Resource
 ---
+
 # Chapter 3 - Section 4
 Special Use Airspace
 **7 min read**  

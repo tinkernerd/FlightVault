@@ -1,18 +1,20 @@
 ---
-title: Fog & Atmospheric Pressure
-created_at: 2025-02-18T19:20:23-05:00
-modified_at: 2025-02-18T19:24:32-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-18 19:20:23-05:00
+dg-publish: true
 lesson: 7
+modified_at: 2025-02-18 19:24:32-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Fog & Atmospheric Pressure
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

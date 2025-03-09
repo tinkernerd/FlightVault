@@ -1,19 +1,21 @@
 ---
-title: Closer Look - ASOS - Behind the Scenes
-created_at: 2025-03-07T16:01:28-05:00
-modified_at: 2025-03-07T16:02:54-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-07 16:01:28-05:00
+dg-publish: true
 lesson: 20
+modified_at: 2025-03-07 16:02:54-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Closer Look - ASOS - Behind the Scenes
+topic:
+- Weather
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

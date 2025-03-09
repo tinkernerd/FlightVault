@@ -1,16 +1,18 @@
 ---
-title: Two-way Radio Communications Failure
 book: Aeronautical Information Manual
-chapter: chapter06
-type: Resource
-topic:
-  - Emergencies
-  - Communications
-  - Navigation
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter06
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Two-way Radio Communications Failure
+topic:
+- Emergencies
+- Communications
+- Navigation
+type: Resource
 ---
+
 # Chapter 6 - Section 4
 Two-way Radio Communications Failure
 **7 min read**  

@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0156 State block grant pilot program
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

@@ -1,18 +1,20 @@
 ---
-title: AIRMETs and SIGMETs
-created_at: 2025-03-02T19:21:56-05:00
-modified_at: 2025-03-02T19:23:08-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 19:21:56-05:00
+dg-publish: true
 lesson: 15
+modified_at: 2025-03-02 19:23:08-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: AIRMETs and SIGMETs
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

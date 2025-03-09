@@ -1,10 +1,11 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0215 Use and change of names of air carriers, foreign air carriers and commuter
   air carriers
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

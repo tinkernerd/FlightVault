@@ -1,19 +1,21 @@
 ---
-title: "Air Facts: Fit for Flight"
-created_at: 2025-02-25T18:46:38-05:00
-modified_at: 2025-02-25T18:46:38-05:00
-category: Aviation
-type: Resource
-topic:
-  - Health
-  - Fitness
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-25 18:46:38-05:00
+dg-publish: true
 lesson: 27
+modified_at: 2025-02-25 18:46:38-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Air Facts: Fit for Flight'
+topic:
+- Health
+- Fitness
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

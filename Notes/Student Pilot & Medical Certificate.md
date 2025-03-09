@@ -1,19 +1,21 @@
 ---
-title: 
-created_at: 2025-02-25T18:52:48-05:00
-modified_at: 2025-02-27T18:26:57-05:00
-category: Aviation
-type: Resource
-topic:
-  - Health
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-25 18:52:48-05:00
+dg-publish: true
 lesson: 26
+modified_at: 2025-02-27 18:26:57-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: null
+topic:
+- Health
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

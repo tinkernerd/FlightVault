@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0382 Nondiscrimination on the basis of disability in air travel
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

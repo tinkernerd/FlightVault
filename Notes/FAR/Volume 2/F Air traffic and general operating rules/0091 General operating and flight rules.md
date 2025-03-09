@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0091 General operating and flight rules
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 2
 ---

@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0385 Staff assignments and review of action under assignments
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

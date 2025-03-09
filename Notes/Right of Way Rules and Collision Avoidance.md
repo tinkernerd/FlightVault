@@ -1,20 +1,22 @@
 ---
-title: Right of Way Rules and Collision Avoidance
-created_at: 2025-02-25T18:50:17-05:00
-modified_at: 2025-02-27T19:01:17-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-  - Aircraft
-  - Air Traffic
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-25 18:50:17-05:00
+dg-publish: true
 lesson: 24
+modified_at: 2025-02-27 19:01:17-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Right of Way Rules and Collision Avoidance
+topic:
+- Control
+- Aircraft
+- Air Traffic
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

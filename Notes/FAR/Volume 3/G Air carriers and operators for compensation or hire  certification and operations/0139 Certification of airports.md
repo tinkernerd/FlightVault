@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0139 Certification of airports
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

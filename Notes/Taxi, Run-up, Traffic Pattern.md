@@ -1,20 +1,22 @@
 ---
-title: Taxi, Run-up, Traffic Pattern
-created_at: 2025-02-08T23:31:06-05:00
-modified_at: 2025-02-19T19:19:18-05:00
-category: Aviation
-type: Resource
-topic:
-  - Airport Operations
-  - Air Traffic
-  - T/O & Landings
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 1
-status: Active
+category: Aviation
+created_at: 2025-02-08 23:31:06-05:00
+dg-publish: true
 lesson: 16
+modified_at: 2025-02-19 19:19:18-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Taxi, Run-up, Traffic Pattern
+topic:
+- Airport Operations
+- Air Traffic
+- T/O & Landings
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 
@@ -117,4 +119,3 @@ This section provides essential training notes for new student pilots on taxiing
     1. Runway heading should agree with the airplane's magnetic heading within 5 degrees.
 
 Remember, mastering ground operations, run-up procedures, and understanding traffic patterns are essential steps towards becoming a proficient pilot. Practice these techniques to build confidence and ensure safety in all your flights.
-

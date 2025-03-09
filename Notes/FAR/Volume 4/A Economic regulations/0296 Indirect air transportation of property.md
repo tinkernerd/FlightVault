@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0296 Indirect air transportation of property
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

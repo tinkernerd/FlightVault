@@ -1,19 +1,21 @@
 ---
-title: Thrust, Stability, & Center of Gravity
-created_at: 2025-02-25T18:44:03-05:00
-modified_at: 2025-02-25T18:44:50-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-25 18:44:03-05:00
+dg-publish: true
 lesson: 21
+modified_at: 2025-02-25 18:44:50-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Thrust, Stability, & Center of Gravity
+topic:
+- Control
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

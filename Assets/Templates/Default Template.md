@@ -11,6 +11,7 @@ tags:
 Chapter: 
 lesson: 
 status: Active
+dg_publish: true
 <% '---' %>
 # `= this.title`
-> [[Private Pilot License (PPL) Notes |All Class Notes]]
+> [[Private Pilot License (PPL) Notes]]

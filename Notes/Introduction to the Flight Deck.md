@@ -1,18 +1,20 @@
 ---
-title: The Flight Deck
-created_at: 2025-02-07T12:11:25-05:00
-modified_at: 2025-02-23T20:08:43-05:00
-category: Aviation
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 1
-status: Active
-type: Resource
+category: Aviation
+created_at: 2025-02-07 12:11:25-05:00
+dg-publish: true
 lesson: 5
+modified_at: 2025-02-23 20:08:43-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: The Flight Deck
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

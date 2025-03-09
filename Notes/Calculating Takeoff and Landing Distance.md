@@ -1,18 +1,20 @@
 ---
-title: Calculating Takeoff and Landing Distance
-created_at: 2025-03-02T05:14:14-05:00
-modified_at: 2025-03-02T05:15:04-05:00
-category: Aviation
-type: Resource
-topic:
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 05:14:14-05:00
+dg-publish: true
 lesson: 6
+modified_at: 2025-03-02 05:15:04-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Calculating Takeoff and Landing Distance
+topic:
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0093 Special air traffic rules
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 2
 ---

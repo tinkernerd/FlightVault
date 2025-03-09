@@ -1,10 +1,11 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0060 Flight simulation training device initial and continuing qualification
   and use
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 2
 ---

@@ -1,16 +1,18 @@
 ---
-title: AIM - Services Available to Pilots
 book: Aeronautical Information Manual
-chapter: chapter04
-type: Resource
-topic:
-  - Airport Operations
-  - Communications
-  - Navigation
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter04
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: AIM - Services Available to Pilots
+topic:
+- Airport Operations
+- Communications
+- Navigation
+type: Resource
 ---
+
 # Chapter 4 - Section 1
 Services Available to Pilots
 **59 min read**  

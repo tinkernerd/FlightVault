@@ -1,18 +1,20 @@
 ---
-title: Aviation Charts and NOTAMs
-created_at: 2025-02-27T19:16:15-05:00
-modified_at: 2025-03-02T14:08:47-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-02-27 19:16:15-05:00
+dg-publish: true
 lesson: 3
+modified_at: 2025-03-02 14:08:47-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Aviation Charts and NOTAMs
+topic:
+- Navigation
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 > [[Notices to Airmen]]

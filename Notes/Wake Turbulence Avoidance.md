@@ -1,19 +1,21 @@
 ---
-title: Wake Turbulence Avoidance
-created_at: 2025-02-17T11:36:04-05:00
-modified_at: 2025-02-17T11:38:39-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-  - T/O & Landings
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 2
-status: Active
+category: Aviation
+created_at: 2025-02-17 11:36:04-05:00
+dg-publish: true
 lesson: 15
+modified_at: 2025-02-17 11:38:39-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Wake Turbulence Avoidance
+topic:
+- Control
+- T/O & Landings
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

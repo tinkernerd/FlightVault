@@ -1,18 +1,20 @@
 ---
-title: METAR Weather Report
-created_at: 2025-02-18T19:49:37-05:00
-modified_at: 2025-02-18T19:52:23-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-18 19:49:37-05:00
+dg-publish: true
 lesson: 11
+modified_at: 2025-02-18 19:52:23-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: METAR Weather Report
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

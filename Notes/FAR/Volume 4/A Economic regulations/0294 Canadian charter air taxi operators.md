@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0294 Canadian charter air taxi operators
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

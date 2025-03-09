@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0063 Certification  flight crewmembers other than pilots
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 2
 ---

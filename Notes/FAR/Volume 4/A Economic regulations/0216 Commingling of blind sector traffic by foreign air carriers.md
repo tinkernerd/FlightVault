@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0216 Commingling of blind sector traffic by foreign air carriers
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

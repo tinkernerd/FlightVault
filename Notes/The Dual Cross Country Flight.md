@@ -1,19 +1,21 @@
 ---
-title: The Dual Cross Country Flight
-created_at: 2025-03-01T14:42:08-05:00
-modified_at: 2025-03-01T14:59:55-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 14:42:08-05:00
+dg-publish: true
 lesson: 20
+modified_at: 2025-03-01 14:59:55-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: The Dual Cross Country Flight
+topic:
+- Navigation
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

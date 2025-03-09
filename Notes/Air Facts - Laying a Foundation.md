@@ -1,18 +1,20 @@
 ---
-title: Air Facts - Laying a Foundation
-created_at: 2025-03-02T19:18:54-05:00
-modified_at: 2025-03-02T19:18:54-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 19:18:54-05:00
+dg-publish: true
 lesson: 14
+modified_at: 2025-03-02 19:18:54-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Air Facts - Laying a Foundation
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

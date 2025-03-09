@@ -1,14 +1,16 @@
 ---
-title: Types of Charts Available
 book: Aeronautical Information Manual
-chapter: chapter09
-type: Resource
-topic:
-  - Navigation
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter09
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Types of Charts Available
+topic:
+- Navigation
+type: Resource
 ---
+
 # Chapter 9 - Section 1
 Types of Charts Available
 **16 min read**  

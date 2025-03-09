@@ -1,18 +1,20 @@
 ---
-title: The Airplane - Introduction
-created_at: 2024-10-17T16:52
-type: Resource
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
-Chapter: Chapter 1
-status: Active
 Book: Volume01
+Chapter: Chapter 1
 category: Aviation
+created_at: 2024-10-17T16:52
+dg-publish: true
 lesson: 3
+status: Active
+tags:
+- aviation
+- classnotes
+title: The Airplane - Introduction
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

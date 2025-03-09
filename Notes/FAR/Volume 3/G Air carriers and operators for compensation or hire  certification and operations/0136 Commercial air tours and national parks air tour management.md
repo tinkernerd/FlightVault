@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0136 Commercial air tours and national parks air tour management
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

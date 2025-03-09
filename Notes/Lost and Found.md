@@ -1,20 +1,22 @@
 ---
-title: Lost and Found
-created_at: 2025-03-07T16:04:44-05:00
-modified_at: 2025-03-07T16:05:36-05:00
-category: Aviation
-type: Resource
-topic:
-  - Planning
-  - Navigation
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-07 16:04:44-05:00
+dg-publish: true
 lesson: 21
+modified_at: 2025-03-07 16:05:36-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Lost and Found
+topic:
+- Planning
+- Navigation
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

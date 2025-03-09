@@ -1,16 +1,18 @@
 ---
-title: Arrival Procedures
 book: Aeronautical Information Manual
-chapter: chapter05
-type: Resource
-topic:
-  - Air Traffic
-  - Navigation
-  - Communications
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter05
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Arrival Procedures
+topic:
+- Air Traffic
+- Navigation
+- Communications
+type: Resource
 ---
+
 # Chapter 5 - Section 4 
 Arrival Procedures
 **159 min read**  

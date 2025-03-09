@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0117 Flight and duty limitations and rest requirements  flightcrew members
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

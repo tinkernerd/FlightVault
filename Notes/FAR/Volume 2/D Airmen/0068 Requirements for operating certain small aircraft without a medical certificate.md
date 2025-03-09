@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0068 Requirements for operating certain small aircraft without a medical certificate
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 2
 ---

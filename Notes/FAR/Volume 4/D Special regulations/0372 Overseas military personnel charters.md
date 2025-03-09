@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0372 Overseas military personnel charters
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

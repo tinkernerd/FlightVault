@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0399 Statements of general policy
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

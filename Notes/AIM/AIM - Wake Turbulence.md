@@ -1,14 +1,16 @@
 ---
+book: Aeronautical Information Manual
+category: Aviation
+chapter: chapter07
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
 title: Wake Turbulence
 topic:
-  - Weather
-book: Aeronautical Information Manual
-chapter: chapter07
+- Weather
 type: Resource
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
-category: Aviation
 ---
+
 # Chapter 7 - Section 4
 Wake Turbulence
 **19 min read**  

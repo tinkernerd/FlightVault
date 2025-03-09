@@ -1,18 +1,20 @@
 ---
-title: "Closer Look: Pilot's Operating Handbook"
-created_at: 2025-02-18T19:48:04-05:00
-modified_at: 2025-02-18T19:49:29-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-18 19:48:04-05:00
+dg-publish: true
 lesson: 10
+modified_at: 2025-02-18 19:49:29-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Closer Look: Pilot''s Operating Handbook'
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

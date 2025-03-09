@@ -1,18 +1,20 @@
 ---
+category: Aviation
+created_at: 2024-12-30
+dg-publish: true
+status: Active
 title: Dowagiac Municipal Airport (C91)
 topic:
-  - Navigation
-  - Communications
-  - Airport Operations
+- Navigation
+- Communications
+- Airport Operations
 type: Resource
-status: Active
-created_at: 2024-12-30
-category: Aviation
 ---
 
 # Dowagiac Municipal Airport (C91)
 - [C91 - Dowagiac Municipal Airport \| SkyVector](https://skyvector.com/airport/C91/Dowagiac-Municipal-Airport)
--  [Dowagiac Airport Chart Supplement](https://cdn.tinkernerd.dev/aviation/traffic-pattern-illustration-c91.jpg)
+- [Dowagiac Airport Chart Supplement](https://cdn.tinkernerd.dev/aviation/c91.pdf)
+- [Dowagiac Airport C91 Pattern](https://cdn.tinkernerd.dev/aviation/traffic-pattern-illustration-c91.jpg)
 
 **Location**: 1 NW of Dowagiac, Michigan  
 **Coordinates**: N41º59.58´ W86º07.70´  
@@ -45,7 +47,7 @@ category: Aviation
     - Obstacles: Tree  
     - Right traffic pattern
 
-![[Traffic Pattern illustration - C91.jpg|Traffic Pattern Diagram General]]
+![Dowagiac Airport C91 Pattern](https://cdn.tinkernerd.dev/aviation/traffic-pattern-illustration-c91.jpg)
 ### Services
 
 - **Fuel**: 100LL available  

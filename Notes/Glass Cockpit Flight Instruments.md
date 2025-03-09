@@ -1,18 +1,20 @@
 ---
-title: Glass Cockpit Flight Instruments
-created_at: 2025-03-01T10:06:13-05:00
-modified_at: 2025-03-01T10:06:45-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 10:06:13-05:00
+dg-publish: true
 lesson: 14
+modified_at: 2025-03-01 10:06:45-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Glass Cockpit Flight Instruments
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

@@ -1,21 +1,23 @@
 ---
-title: Notices to Airmen
-category: Aviation
-topic:
-  - Navigation
-  - Communications
-  - Planning
-type: Resource
-status: Active
-created_at: 2024-12-30
 banner: https://cdn.tinkernerd.dev/banners/notams.png
-dateUpdated: 2025-01-31T14:41:48
-cssclasses:
-  - cleandoc
 banner_y: 0.377
+category: Aviation
+created_at: 2024-12-30
+cssclasses:
+- cleandoc
+dateUpdated: 2025-01-31 14:41:48
+dg-publish: true
+status: Active
 tags:
-  - classnotes
+- classnotes
+title: Notices to Airmen
+topic:
+- Navigation
+- Communications
+- Planning
+type: Resource
 ---
+
 # Notices to Airmen (NOTAMs)
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 
@@ -59,4 +61,3 @@ NOTAMs (Notices to Airmen) are critical pieces of information that every pilot m
 # Accessing NOTAMs
 - Always review NOTAMs during preflight planning.
 - Use online tools, aviation apps, or consult ATC for the latest information.
-

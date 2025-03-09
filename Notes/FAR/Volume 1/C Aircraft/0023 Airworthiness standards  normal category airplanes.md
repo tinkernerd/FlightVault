@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0023 Airworthiness standards  normal category airplanes
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 1
 ---

@@ -1,18 +1,20 @@
 ---
-title: Flight Service Weather Briefings
-created_at: 2025-02-25T18:39:54-05:00
-modified_at: 2025-02-25T18:45:39-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-25 18:39:54-05:00
+dg-publish: true
 lesson: 22
+modified_at: 2025-02-25 18:45:39-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Flight Service Weather Briefings
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

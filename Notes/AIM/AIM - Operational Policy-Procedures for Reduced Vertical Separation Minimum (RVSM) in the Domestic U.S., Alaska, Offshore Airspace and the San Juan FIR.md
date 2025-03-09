@@ -1,14 +1,17 @@
 ---
-title: Operational Policy Procedures for Reduced Vertical Separation Minimum (RVSM) in the Domestic U.S., Alaska, Offshore Airspace and the San Juan FIR
 book: Aeronautical Information Manual
-chapter: chapter04
-type: Resource
-topic:
-  - Air Traffic
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter04
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Operational Policy Procedures for Reduced Vertical Separation Minimum (RVSM)
+  in the Domestic U.S., Alaska, Offshore Airspace and the San Juan FIR
+topic:
+- Air Traffic
+type: Resource
 ---
+
 # Chapter 4 - Section 6
 Operational Policy/Procedures for Reduced Vertical Separation Minimum (RVSM) in the Domestic U.S., Alaska, Offshore Airspace and the San Juan FIR
 **23 min read**  

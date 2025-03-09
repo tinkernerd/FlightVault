@@ -1,10 +1,11 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0185 Testimony by employees and production of records in legal proceedings,
   and service of legal process and pleadings
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0389 Fees and charges for special services
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

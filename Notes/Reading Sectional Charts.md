@@ -1,18 +1,20 @@
 ---
-title: Reading Sectional Charts
-created_at: 2025-02-27T19:20:36-05:00
-modified_at: 2025-02-27T19:23:26-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-02-27 19:20:36-05:00
+dg-publish: true
 lesson: 4
+modified_at: 2025-02-27 19:23:26-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Reading Sectional Charts
+topic:
+- Navigation
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

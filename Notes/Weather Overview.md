@@ -1,21 +1,22 @@
 ---
-title: Aviation Weather
-tags:
-  - airports
-  - aviation
-  - flight
-  - weather
-category: Aviation
-topic:
-  - Weather
-type: Resource
-status: Active
-created_at: 2024-04-09
-cssclasses:
-  - cleandoc
 banner: https://cdn.tinkernerd.dev/banners/weather.jpg
 banner_x: 0
 banner_y: 0.416
+category: Aviation
+created_at: 2024-04-09
+cssclasses:
+- cleandoc
+dg-publish: true
+status: Active
+tags:
+- airports
+- aviation
+- flight
+- weather
+title: Aviation Weather
+topic:
+- Weather
+type: Resource
 ---
 
 # ☀️ Weather for Pilots ☁️

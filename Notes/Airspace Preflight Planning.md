@@ -1,20 +1,22 @@
 ---
-title: Airspace Preflight Planning
-created_at: 2025-03-01T17:57:18-05:00
-modified_at: 2025-03-01T17:59:31-05:00
-category: Aviation
-type: Resource
-topic:
-  - Planning
-  - Navigation
-  - Air Traffic
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 17:57:18-05:00
+dg-publish: true
 lesson: 24
+modified_at: 2025-03-01 17:59:31-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Airspace Preflight Planning
+topic:
+- Planning
+- Navigation
+- Air Traffic
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

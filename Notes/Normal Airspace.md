@@ -1,22 +1,24 @@
 ---
-title: Normal Airspace
-created_at: 2025-03-01T15:15:34-05:00
-modified_at: 2025-03-04T19:44:09-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-  - Air Traffic
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 15:15:34-05:00
+dg-publish: true
 lesson: 22
+modified_at: 2025-03-04 19:44:09-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Normal Airspace
+topic:
+- Navigation
+- Air Traffic
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
-> [[Aviation Resources.canvas|Aviation Resources]]
+> [[Aviation Resources Canvas.canvas|Aviation Resources]]
 
 This section covers the understanding of the airspace system in the United States, including the classifications, requirements, and rules for different classes of airspace.
 

@@ -1,18 +1,20 @@
 ---
-title: All Notes
-created_at: 2025-02-23T15:29:49-05:00
-modified_at: 2025-02-27T18:25:52-05:00
 category: Aviation
-type: Resource
-topic:
-  - Reference
+created_at: 2025-02-23 15:29:49-05:00
+cssclasses:
+  - cleandoc
+dg-publish: true
+modified_at: 2025-03-09T09:11:49-04:00
+status: Active
 tags:
   - aviation
   - classnotes
-status: Active
-cssclasses:
-  - cleandoc
+title: All Notes
+topic:
+  - Reference
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 ## Air Traffic

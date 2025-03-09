@@ -1,20 +1,22 @@
 ---
-title: Solo
-created_at: 2025-02-25T18:45:57-05:00
-modified_at: 2025-02-25T18:45:57-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-  - Aircraft
-  - Airport Operations
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-25 18:45:57-05:00
+dg-publish: true
 lesson: 28
+modified_at: 2025-02-25 18:45:57-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Solo
+topic:
+- Control
+- Aircraft
+- Airport Operations
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

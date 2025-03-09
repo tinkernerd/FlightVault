@@ -1,19 +1,21 @@
 ---
-title: Night Flying
-created_at: 2025-02-27T19:02:38-05:00
-modified_at: 2025-02-27T19:09:06-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-  - Night
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-02-27 19:02:38-05:00
+dg-publish: true
 lesson: 1
+modified_at: 2025-02-27 19:09:06-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Night Flying
+topic:
+- Navigation
+- Night
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 
@@ -188,4 +190,3 @@ This section introduces the fundamentals of night flying, highlighting the diffe
     4. Execute approaches and landings as during daytime operations.
 
 Remember, night flying offers a unique and rewarding experience when approached with the proper knowledge and techniques. By understanding the differences from daytime flight and practicing these safe flying practices, you will enhance your skills and confidence as a pilot.
-

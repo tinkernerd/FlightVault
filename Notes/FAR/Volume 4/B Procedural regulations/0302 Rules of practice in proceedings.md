@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0302 Rules of practice in proceedings
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

@@ -1,20 +1,22 @@
 ---
-title: "Sporty's E6B: Flight Planning and FAA Test Prep"
-created_at: 2025-02-27T19:24:02-05:00
-modified_at: 2025-03-04T19:43:47-05:00
-category: Aviation
-type: Resource
-topic:
-  - Reference
-  - Test Prep
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-02-27 19:24:02-05:00
+dg-publish: true
 lesson: 7
+modified_at: 2025-03-04 19:43:47-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Sporty''s E6B: Flight Planning and FAA Test Prep'
+topic:
+- Reference
+- Test Prep
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 
@@ -144,4 +146,4 @@ This section provides an overview of the Sporty's Electronic E6B Flight Computer
 
 Using the Sporty's Electronic E6B Flight Computer, you can efficiently perform essential aviation calculations for flight planning and in-flight navigation. Mastering its functions will aid you in your flight training and help you prepare for the FAA knowledge test.
 
-![[Aviation Resources.canvas|Aviation Resources]]
+![[Aviation Resources Canvas.canvas|Aviation Resources]]

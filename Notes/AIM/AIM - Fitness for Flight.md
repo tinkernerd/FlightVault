@@ -1,14 +1,16 @@
 ---
-title: Fitness for Flight
 book: Aeronautical Information Manual
-chapter: chapter08
-type: Resource
-topic:
-  - Medical
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter08
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Fitness for Flight
+topic:
+- Medical
+type: Resource
 ---
+
 # Chapter 8 - Section 1 
 Fitness for Flight
 **29 min read**  

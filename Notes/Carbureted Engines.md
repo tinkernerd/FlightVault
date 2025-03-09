@@ -1,18 +1,20 @@
 ---
-title: Carbureted Engines
-created_at: 2025-02-07T19:55:55-05:00
-modified_at: 2025-02-18T18:19:19-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 1
-status: Active
+category: Aviation
+created_at: 2025-02-07 19:55:55-05:00
+dg-publish: true
 lesson: 10
+modified_at: 2025-02-18 18:19:19-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Carbureted Engines
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

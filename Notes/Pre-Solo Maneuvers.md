@@ -1,19 +1,21 @@
 ---
-title: Pre-Solo Maneuvers
-created_at: 2025-02-18T08:33:49-05:00
-modified_at: 2025-02-18T08:35:55-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
-status: Active
+category: Aviation
+created_at: 2025-02-18 08:33:49-05:00
+dg-publish: true
 lesson: 1
+modified_at: 2025-02-18 08:35:55-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Pre-Solo Maneuvers
+topic:
+- Navigation
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0189 Use of federal aviation administration communications system
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

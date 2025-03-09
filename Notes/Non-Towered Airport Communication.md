@@ -1,18 +1,20 @@
 ---
-title: Non-Towered Airport Communication
-created_at: 2025-02-17T11:15:40-05:00
-modified_at: 2025-02-17T11:22:18-05:00
-category: Aviation
-type: Resource
-topic:
-  - Communications
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 2
-status: Active
+category: Aviation
+created_at: 2025-02-17 11:15:40-05:00
+dg-publish: true
 lesson: 14
+modified_at: 2025-02-17 11:22:18-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Non-Towered Airport Communication
+topic:
+- Communications
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

@@ -1,11 +1,13 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 2
 ---
+
 # Volume 2
 
 - [[Notes/FAR/Volume 2/D Airmen/0000 Index|Subchapter D. Airmen]]

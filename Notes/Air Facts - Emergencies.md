@@ -1,18 +1,20 @@
 ---
-title: "Air Facts: Emergencies"
-created_at: 2025-02-18T18:52:26-05:00
-modified_at: 2025-02-19T19:36:02-05:00
-category: Aviation
-type: Resource
-topic:
-  - Emergencies
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-18 18:52:26-05:00
+dg-publish: true
 lesson: 6
+modified_at: 2025-02-19 19:36:02-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Air Facts: Emergencies'
+topic:
+- Emergencies
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

@@ -1,17 +1,19 @@
 ---
-title: Aviation Formulas
-created_at: 2025-03-01T19:17:41-05:00
-modified_at: 2025-03-02T14:23:06-05:00
 category: Aviation
-type: Resource
-topic:
-  - Reference
-  - Planning
-tags:
-  - aviation
-  - classnotes
+created_at: 2025-03-01 19:17:41-05:00
+dg-publish: true
+modified_at: 2025-03-02 14:23:06-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Aviation Formulas
+topic:
+- Reference
+- Planning
+type: Resource
 ---
+
 # Aviation Formulas
 [[🏠 Homepage]]
 ## Formula for Density Altitude

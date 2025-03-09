@@ -1,14 +1,17 @@
 ---
-title: Operational Policy/Procedures for the Gulf of Mexico 50 NM Lateral Separation Initiative
 book: Aeronautical Information Manual
-chapter: chapter04
-type: Resource
-topic:
-  - Air Traffic
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter04
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Operational Policy/Procedures for the Gulf of Mexico 50 NM Lateral Separation
+  Initiative
+topic:
+- Air Traffic
+type: Resource
 ---
+
 # Chapter 4 - Section 7
 Operational Policy/Procedures for the Gulf of Mexico 50 NM Lateral Separation Initiative
 **6 min read**  

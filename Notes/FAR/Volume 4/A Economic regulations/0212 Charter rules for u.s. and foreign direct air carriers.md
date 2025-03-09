@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0212 Charter rules for u.s. and foreign direct air carriers
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

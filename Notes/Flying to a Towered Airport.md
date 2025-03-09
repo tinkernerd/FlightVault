@@ -1,19 +1,21 @@
 ---
-title: Flying to a Towered Airport
-created_at: 2025-03-02T14:37:19-05:00
-modified_at: 2025-03-02T16:02:26-05:00
-category: Aviation
-type: Resource
-topic:
-  - Communications
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 14:37:19-05:00
+dg-publish: true
 lesson: 8
+modified_at: 2025-03-02 16:02:26-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Flying to a Towered Airport
+topic:
+- Communications
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

@@ -1,16 +1,18 @@
 ---
-title: Phonetic Alphabet
-created_at: 2025-03-02T14:25:26-05:00
-modified_at: 2025-03-02T14:26:30-05:00
 category: Aviation
-type: Resource
-topic:
-  - Communications
-tags:
-  - aviation
-  - classnotes
+created_at: 2025-03-02 14:25:26-05:00
+dg-publish: true
+modified_at: 2025-03-02 14:26:30-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Phonetic Alphabet
+topic:
+- Communications
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 
@@ -77,4 +79,3 @@ The **NATO Phonetic Alphabet** is used in aviation to ensure clear and accurate 
 <mark style="background: #FFB86CA6;">Pilot: "Cleared for takeoff, Runway Tree-One-Left, Cessna Six-Four-Seven-Two-Fife."</mark>
 
 This format ensures clarity and reduces the risk of miscommunication in aviation. The phonetic alphabet is an essential skill for all pilots and air traffic controllers.
-

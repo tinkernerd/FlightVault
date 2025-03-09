@@ -1,19 +1,21 @@
 ---
-title: Closer Look - Tablets in the Cockpit
-created_at: 2025-03-01T14:30:29-05:00
-modified_at: 2025-03-01T14:31:50-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-  - Navigation
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 14:30:29-05:00
+dg-publish: true
 lesson: 19
+modified_at: 2025-03-01 14:31:50-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Closer Look - Tablets in the Cockpit
+topic:
+- Aircraft
+- Navigation
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

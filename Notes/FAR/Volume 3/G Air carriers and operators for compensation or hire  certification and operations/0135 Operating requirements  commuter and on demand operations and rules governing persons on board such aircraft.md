@@ -1,10 +1,11 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0135 Operating requirements  commuter and on demand operations and rules governing
   persons on board such aircraft
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

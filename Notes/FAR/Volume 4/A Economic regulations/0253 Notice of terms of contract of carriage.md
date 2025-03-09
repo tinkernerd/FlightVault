@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0253 Notice of terms of contract of carriage
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

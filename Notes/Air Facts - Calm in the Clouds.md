@@ -1,18 +1,20 @@
 ---
-title: Air Facts - Calm in the Clouds
-created_at: 2025-03-07T15:48:04-05:00
-modified_at: 2025-03-07T15:48:43-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-07 15:48:04-05:00
+dg-publish: true
 lesson: 18
+modified_at: 2025-03-07 15:48:43-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Air Facts - Calm in the Clouds
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

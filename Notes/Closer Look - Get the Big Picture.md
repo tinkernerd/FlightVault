@@ -1,18 +1,20 @@
 ---
-title: "Closer Look: Get the Big Picture"
-created_at: 2025-02-23T13:55:48-05:00
-modified_at: 2025-02-23T13:59:23-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-23 13:55:48-05:00
+dg-publish: true
 lesson: 13
+modified_at: 2025-02-23 13:59:23-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Closer Look: Get the Big Picture'
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

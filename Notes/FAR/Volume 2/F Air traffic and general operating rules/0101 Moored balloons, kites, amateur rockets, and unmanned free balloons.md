@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0101 Moored balloons, kites, amateur rockets, and unmanned free balloons
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 2
 ---

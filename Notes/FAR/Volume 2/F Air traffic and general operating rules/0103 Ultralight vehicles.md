@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0103 Ultralight vehicles
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 2
 ---

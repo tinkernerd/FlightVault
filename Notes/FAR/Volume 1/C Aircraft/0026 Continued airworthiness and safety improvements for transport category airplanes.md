@@ -1,10 +1,11 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0026 Continued airworthiness and safety improvements for transport category
   airplanes
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 1
 ---

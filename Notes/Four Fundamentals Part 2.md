@@ -1,19 +1,21 @@
 ---
-title: Four Fundamentals Part 2
-created_at: 2025-02-09T00:35:41-05:00
-modified_at: 2025-02-18T18:28:17-05:00
-category: Aviation
-type: Resource
-topic:
-  - Air Traffic
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 1
-status: Active
+category: Aviation
+created_at: 2025-02-09 00:35:41-05:00
+dg-publish: true
 lesson: 24
+modified_at: 2025-02-18 18:28:17-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Four Fundamentals Part 2
+topic:
+- Air Traffic
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

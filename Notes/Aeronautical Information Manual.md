@@ -1,16 +1,18 @@
 ---
+banner: https://cdn.tinkernerd.dev/banners/books.jpg
+book: Aeronautical Information Manual
+category: Aviation
+created_at: 2025-01-31 22:04:12
+cssclasses:
+- cleandoc
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
 title: Aeronautical Information Manual
 topic:
-  - Reference
-category: Aviation
-book: Aeronautical Information Manual
+- Reference
 type: Dashboard
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
-cssclasses:
-  - cleandoc
-banner: https://cdn.tinkernerd.dev/banners/books.jpg
 ---
+
 # Aeronautical Information Manual
 
 - Chapter 1. Air Navigation

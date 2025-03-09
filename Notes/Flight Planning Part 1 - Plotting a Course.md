@@ -1,18 +1,20 @@
 ---
-title: "Flight Planning Part 1: Plotting a Course"
-created_at: 2025-02-27T18:22:39-05:00
-modified_at: 2025-02-27T18:24:14-05:00
-category: Aviation
-type: Resource
-topic:
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-02-27 18:22:39-05:00
+dg-publish: true
 lesson: 8
+modified_at: 2025-02-27 18:24:14-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Flight Planning Part 1: Plotting a Course'
+topic:
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

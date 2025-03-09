@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0431 Launch and reentry of a reusable launch vehicle (rlv)
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

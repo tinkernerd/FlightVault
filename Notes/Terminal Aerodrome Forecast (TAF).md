@@ -1,18 +1,20 @@
 ---
-title: Terminal Aerodrome Forecast (TAF)
-created_at: 2025-02-19T10:36:10-05:00
-modified_at: 2025-02-19T10:38:48-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-19 10:36:10-05:00
+dg-publish: true
 lesson: 12
+modified_at: 2025-02-19 10:38:48-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Terminal Aerodrome Forecast (TAF)
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

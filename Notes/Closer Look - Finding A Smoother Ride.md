@@ -1,18 +1,20 @@
 ---
-title: Closer Look - Finding A Smoother Ride
-created_at: 2025-03-01T20:44:17-05:00
-modified_at: 2025-03-01T20:45:04-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-01 20:44:17-05:00
+dg-publish: true
 lesson: 4
+modified_at: 2025-03-01 20:45:04-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Closer Look - Finding A Smoother Ride
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

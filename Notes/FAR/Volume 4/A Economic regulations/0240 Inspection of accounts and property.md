@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0240 Inspection of accounts and property
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

@@ -1,19 +1,21 @@
 ---
-title: ForeFlight Weather Imagery
-created_at: 2025-03-07T16:15:59-05:00
-modified_at: 2025-03-07T16:16:34-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-07 16:15:59-05:00
+dg-publish: true
 lesson: 22
+modified_at: 2025-03-07 16:16:34-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: ForeFlight Weather Imagery
+topic:
+- Weather
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

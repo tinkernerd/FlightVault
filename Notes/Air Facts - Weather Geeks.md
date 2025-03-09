@@ -1,20 +1,22 @@
 ---
-title: Air Facts - Weather Geeks
-description: Air Facts and Weather
-type: Resource
-tags:
-  - classnotes
-  - weather
-  - aviation
-topic:
-  - Weather
 Chapter: Chapter 1
-status: Active
 category: Aviation
 created_at: 2024-10-17T16:35
 dateUpdated: 2025-01-31T14:41
+description: Air Facts and Weather
+dg-publish: true
 lesson: 2
+status: Active
+tags:
+- classnotes
+- weather
+- aviation
+title: Air Facts - Weather Geeks
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

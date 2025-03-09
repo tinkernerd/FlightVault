@@ -1,18 +1,20 @@
 ---
-title: Air Masses and Fronts
-created_at: 2025-03-01T13:56:19-05:00
-modified_at: 2025-03-01T13:59:17-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 13:56:19-05:00
+dg-publish: true
 lesson: 16
+modified_at: 2025-03-01 13:59:17-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Air Masses and Fronts
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

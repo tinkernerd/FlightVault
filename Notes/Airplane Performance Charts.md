@@ -1,19 +1,21 @@
 ---
-title: Airplane Performance Charts
-created_at: 2025-03-02T05:02:47-05:00
-modified_at: 2025-03-02T05:04:01-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 05:02:47-05:00
+dg-publish: true
 lesson: 5
+modified_at: 2025-03-02 05:04:01-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Airplane Performance Charts
+topic:
+- Aircraft
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

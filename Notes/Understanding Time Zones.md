@@ -1,18 +1,20 @@
 ---
-title: Understanding Time Zones
-created_at: 2025-02-27T19:21:59-05:00
-modified_at: 2025-02-27T19:22:32-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-02-27 19:21:59-05:00
+dg-publish: true
 lesson: 5
+modified_at: 2025-02-27 19:22:32-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Understanding Time Zones
+topic:
+- Navigation
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

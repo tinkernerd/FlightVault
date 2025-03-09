@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0013 Investigative and enforcement procedures
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 1
 ---

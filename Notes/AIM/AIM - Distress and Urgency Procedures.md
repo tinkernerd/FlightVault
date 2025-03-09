@@ -1,14 +1,16 @@
 ---
-title: Distress and Urgency Procedures
 book: Aeronautical Information Manual
-chapter: chapter06
-type: Resource
-topic:
-  - Emergencies
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter06
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Distress and Urgency Procedures
+topic:
+- Emergencies
+type: Resource
 ---
+
 # Chapter 6 - Section 3
 Distress and Urgency Procedures
 **18 min read**  

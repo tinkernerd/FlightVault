@@ -1,18 +1,20 @@
 ---
-title: Magnetic Compass
-created_at: 2025-03-01T20:35:50-05:00
-modified_at: 2025-03-01T20:36:30-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-01 20:35:50-05:00
+dg-publish: true
 lesson: 3
+modified_at: 2025-03-01 20:36:30-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Magnetic Compass
+topic:
+- Navigation
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

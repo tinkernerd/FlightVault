@@ -1,18 +1,20 @@
 ---
-title: Stalls
-created_at: 2025-02-16T17:45:06-05:00
-modified_at: 2025-02-18T18:35:39-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 2
-status: Active
+category: Aviation
+created_at: 2025-02-16 17:45:06-05:00
+dg-publish: true
 lesson: 9
+modified_at: 2025-02-18 18:35:39-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Stalls
+topic:
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

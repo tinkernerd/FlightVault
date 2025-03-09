@@ -1,20 +1,22 @@
 ---
-title: Short and Soft Field Takeoffs and Landings
-created_at: 2025-03-02T16:04:19-05:00
-modified_at: 2025-03-02T16:07:22-05:00
-category: Aviation
-type: Resource
-topic:
-  - T/O & Landings
-  - Planning
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 16:04:19-05:00
+dg-publish: true
 lesson: 9
+modified_at: 2025-03-02 16:07:22-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Short and Soft Field Takeoffs and Landings
+topic:
+- T/O & Landings
+- Planning
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

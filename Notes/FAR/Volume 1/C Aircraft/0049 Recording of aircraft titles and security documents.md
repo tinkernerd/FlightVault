@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0049 Recording of aircraft titles and security documents
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 1
 ---

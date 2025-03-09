@@ -1,18 +1,20 @@
 ---
-title: "Closer Look: Weather Information"
-created_at: 2025-03-01T14:18:16-05:00
-modified_at: 2025-03-01T14:19:13-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 14:18:16-05:00
+dg-publish: true
 lesson: 17
+modified_at: 2025-03-01 14:19:13-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Closer Look: Weather Information'
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

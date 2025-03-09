@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0158 Passenger facility charges (pfc's)
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

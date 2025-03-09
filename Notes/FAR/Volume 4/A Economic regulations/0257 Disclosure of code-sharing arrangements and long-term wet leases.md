@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0257 Disclosure of code-sharing arrangements and long-term wet leases
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

@@ -1,19 +1,21 @@
 ---
-title: Cockpit Variations
-created_at: 2025-02-07T19:36:53-05:00
-modified_at: 2025-02-18T18:16:05-05:00
-category: Aviation
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
-  - airplane
 Chapter: Chapter 1
-status: Active
-type: Resource
+category: Aviation
+created_at: 2025-02-07 19:36:53-05:00
+dg-publish: true
 lesson: 6
+modified_at: 2025-02-18 18:16:05-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+- airplane
+title: Cockpit Variations
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

@@ -1,18 +1,20 @@
 ---
-title: Air Facts - When Enough's Not Enough
-created_at: 2025-03-02T14:29:54-05:00
-modified_at: 2025-03-02T14:36:20-05:00
-category: Aviation
-type: Resource
-topic:
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 14:29:54-05:00
+dg-publish: true
 lesson: 7
+modified_at: 2025-03-02 14:36:20-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Air Facts - When Enough's Not Enough
+topic:
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

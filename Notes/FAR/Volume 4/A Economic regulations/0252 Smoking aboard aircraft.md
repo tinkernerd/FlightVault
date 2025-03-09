@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0252 Smoking aboard aircraft
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

@@ -12,6 +12,7 @@ tags:
 Chapter: Chapter 2
 status: Active
 lesson: 5
+dg-publish: true
 ---
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]

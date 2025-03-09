@@ -1,15 +1,17 @@
 ---
-title: Performance-Based Navigation (PBN) and Area Navigation (RNAV)
-source: https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html
-category: Aviation
-type: Resource
-chapter: Chapter01
 book: Aeronautical Information Manual
+category: Aviation
+chapter: Chapter01
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+source: https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_2.html
+title: Performance-Based Navigation (PBN) and Area Navigation (RNAV)
 topic:
-  - Navigation
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
+- Navigation
+type: Resource
 ---
+
 # Chapter 1 - Section 2 
 Performance-Based Navigation (PBN) and Area Navigation (RNAV)
 **27 min read**  

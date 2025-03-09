@@ -1,18 +1,20 @@
 ---
-title: Intro to Glass Cockpit Systems
-created_at: 2025-02-23T14:00:03-05:00
-modified_at: 2025-02-23T14:00:37-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-23 14:00:03-05:00
+dg-publish: true
 lesson: 14
+modified_at: 2025-02-23 14:00:37-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Intro to Glass Cockpit Systems
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

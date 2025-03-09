@@ -1,10 +1,11 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0217 Reporting traffic statistics by foreign air carriers in civilian scheduled,
   charter, and nonscheduled services
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

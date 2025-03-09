@@ -1,21 +1,23 @@
 ---
-title: ATC Radar Services
-created_at: 2025-03-01T20:19:20-05:00
-modified_at: 2025-03-01T20:20:43-05:00
-category: Aviation
-type: Resource
-topic:
-  - Airport Operations
-  - Air Traffic
-  - Navigation
-  - Communications
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-01 20:19:20-05:00
+dg-publish: true
 lesson: 1
+modified_at: 2025-03-01 20:20:43-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: ATC Radar Services
+topic:
+- Airport Operations
+- Air Traffic
+- Navigation
+- Communications
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

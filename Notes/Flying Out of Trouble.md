@@ -1,19 +1,21 @@
 ---
-title: Flying Out of Trouble
-created_at: 2025-03-07T15:49:37-05:00
-modified_at: 2025-03-07T15:52:20-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-07 15:49:37-05:00
+dg-publish: true
 lesson: 19
+modified_at: 2025-03-07 15:52:20-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Flying Out of Trouble
+topic:
+- Weather
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0017 Procedures for protests and contract disputes
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 1
 ---

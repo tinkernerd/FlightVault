@@ -1,16 +1,18 @@
 ---
+book: Aeronautical Information Manual
+category: Aviation
+chapter: Chapter02
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+source: https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html
 title: AIM - Airport Lighting Aids
 topic:
-  - Navigation
-  - Airport Operations
-book: Aeronautical Information Manual
-source: https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html
-chapter: Chapter02
+- Navigation
+- Airport Operations
 type: Resource
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
-category: Aviation
 ---
+
 # Chapter 2 - Section 1
 Airport Lighting Aids
 **26 min read**  

@@ -1,10 +1,11 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0169 Expenditure of federal funds for nonmilitary airports or air navigation
   facilities thereon
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

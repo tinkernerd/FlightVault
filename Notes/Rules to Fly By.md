@@ -1,9 +1,15 @@
 ---
-title: Rules to Fly By
-created_at: 2025-03-07T17:36:10-05:00
-modified_at: 2025-03-07T17:39:22-05:00
+Chapter: Chapter 6
 category: Aviation
-type: Resource
+created_at: 2025-03-07 17:36:10-05:00
+dg-publish: true
+lesson: 1
+modified_at: 2025-03-09T09:13:08-04:00
+status: Active
+tags:
+  - aviation
+  - classnotes
+title: Rules to Fly By
 topic:
   - Control
   - Navigation
@@ -11,15 +17,11 @@ topic:
   - Planning
   - Test Prep
   - Medical
-tags:
-  - aviation
-  - classnotes
-Chapter: Chapter 6
-lesson: 1
-status: Active
+type: Resource
 ---
+
 # `= this.title`
-> [[Private Pilot License (PPL) Notes |All Class Notes]]
+> [[Private Pilot License (PPL) Notes]]
 
 This section covers essential regulations and responsibilities for private pilots, focusing on maintaining certification, operational rules, and safety practices.
 

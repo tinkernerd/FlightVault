@@ -1,15 +1,17 @@
 ---
-title: Pilot Controller Roles and Responsibilities
 book: Aeronautical Information Manual
-chapter: chapter05
-type: Resource
-topic:
-  - Air Traffic
-  - Navigation
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter05
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Pilot Controller Roles and Responsibilities
+topic:
+- Air Traffic
+- Navigation
+type: Resource
 ---
+
 # Chapter 5 - Section 5
 Pilot/Controller Roles and Responsibilities
 **24 min read**  

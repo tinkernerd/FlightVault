@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0043 Maintenance, preventive maintenance, rebuilding, and alteration
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 1
 ---

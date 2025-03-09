@@ -1,19 +1,21 @@
 ---
-title: VFR Flight Following
-created_at: 2025-03-01T15:10:57-05:00
-modified_at: 2025-03-01T15:17:14-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-  - Air Traffic
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 15:10:57-05:00
+dg-publish: true
 lesson: 21
+modified_at: 2025-03-01 15:17:14-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: VFR Flight Following
+topic:
+- Navigation
+- Air Traffic
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

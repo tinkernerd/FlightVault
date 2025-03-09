@@ -1,18 +1,20 @@
 ---
-title: Propeller, Fuel and Electrical System
-created_at: 2025-02-07T19:53:24-05:00
-modified_at: 2025-02-18T18:18:50-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 1
-status: Active
+category: Aviation
+created_at: 2025-02-07 19:53:24-05:00
+dg-publish: true
 lesson: 9
+modified_at: 2025-02-18 18:18:50-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Propeller, Fuel and Electrical System
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

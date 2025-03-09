@@ -1,19 +1,21 @@
 ---
-title: "Flight Planning Part 2: Preparing a Navlog"
-created_at: 2025-02-28T19:44:03-05:00
-modified_at: 2025-02-28T19:45:07-05:00
-category: Aviation
-type: Resource
-topic:
-  - Planning
-  - Airport Operations
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-02-28 19:44:03-05:00
+dg-publish: true
 lesson: 9
+modified_at: 2025-02-28 19:45:07-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Flight Planning Part 2: Preparing a Navlog'
+topic:
+- Planning
+- Airport Operations
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

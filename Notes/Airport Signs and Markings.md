@@ -1,18 +1,20 @@
 ---
-title: Airport Signs and Markings
-created_at: 2025-02-23T14:08:51-05:00
-modified_at: 2025-03-04T19:44:17-05:00
-category: Aviation
-type: Resource
-topic:
-  - Airport Operations
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-23 14:08:51-05:00
+dg-publish: true
 lesson: 15
+modified_at: 2025-03-04 19:44:17-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Airport Signs and Markings
+topic:
+- Airport Operations
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 
@@ -101,4 +103,4 @@ This section covers the importance of runway safety, understanding airport signs
 Understanding and adhering to airport signs and markings are crucial for safe flying. Always stay vigilant, communicate clearly, and never hesitate to seek assistance if unsure.
 
 # Resources
-![[Aviation Resources.canvas|Aviation Resources]]
+![[Aviation Resources Canvas.canvas|Aviation Resources]]

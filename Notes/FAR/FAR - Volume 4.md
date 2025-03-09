@@ -1,11 +1,13 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 topic:
-  - Reference
+- Reference
 type: Resource
-volume: "4"
+volume: '4'
 ---
+
 # Volume 4
 
 - [[Notes/FAR/Volume 4/A Economic regulations/0000 Index|Subchapter A. Economic regulations]]

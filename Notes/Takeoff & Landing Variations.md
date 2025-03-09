@@ -1,20 +1,22 @@
 ---
-title: Takeoff & Landing Variations
-created_at: 2025-02-17T10:47:36-05:00
-modified_at: 2025-02-17T10:54:09-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-  - Air Traffic
-  - T/O & Landings
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 2
-status: Active
+category: Aviation
+created_at: 2025-02-17 10:47:36-05:00
+dg-publish: true
 lesson: 13
+modified_at: 2025-02-17 10:54:09-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Takeoff & Landing Variations
+topic:
+- Control
+- Air Traffic
+- T/O & Landings
+type: Resource
 ---
+
 # `= this.title` 
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

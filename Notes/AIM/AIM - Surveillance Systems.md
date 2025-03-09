@@ -1,14 +1,16 @@
 ---
-title: Surveillance Systems
 book: Aeronautical Information Manual
-chapter: chapter04
-type: Resource
-topic:
-  - Navigation
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter04
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Surveillance Systems
+topic:
+- Navigation
+type: Resource
 ---
+
 # Chapter 4 - Section 5
 Surveillance Systems
 **47 min read**  

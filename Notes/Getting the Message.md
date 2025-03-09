@@ -1,18 +1,20 @@
 ---
-title: Getting the Message
-created_at: 2025-02-08T13:16:05-05:00
-modified_at: 2025-02-18T18:24:20-05:00
-category: Aviation
-type: Resource
-topic:
-  - Communications
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 1
-status: Active
+category: Aviation
+created_at: 2025-02-08 13:16:05-05:00
+dg-publish: true
 lesson: 15
+modified_at: 2025-02-18 18:24:20-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Getting the Message
+topic:
+- Communications
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

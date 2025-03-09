@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0244 Reporting tarmac delay data
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

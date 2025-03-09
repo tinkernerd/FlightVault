@@ -1,20 +1,22 @@
 ---
-title: Touch and Go
-created_at: 2025-02-18T17:46:40-05:00
-modified_at: 2025-02-18T17:48:02-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-  - T/O & Landings
-  - Air Traffic
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
-status: Active
+category: Aviation
+created_at: 2025-02-18 17:46:40-05:00
+dg-publish: true
 lesson: 4
+modified_at: 2025-02-18 17:48:02-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Touch and Go
+topic:
+- Control
+- T/O & Landings
+- Air Traffic
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

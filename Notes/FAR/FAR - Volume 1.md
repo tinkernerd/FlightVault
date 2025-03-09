@@ -1,11 +1,13 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 1
 ---
+
 # Volume 1
 
 - [[Notes/FAR/Volume 1/A Definitions and general requirements/0000 Index|Subchapter A. Definitions and general requirements]]

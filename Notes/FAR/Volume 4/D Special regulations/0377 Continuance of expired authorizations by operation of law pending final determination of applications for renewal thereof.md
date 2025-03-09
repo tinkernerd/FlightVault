@@ -1,10 +1,11 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0377 Continuance of expired authorizations by operation of law pending final
   determination of applications for renewal thereof
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

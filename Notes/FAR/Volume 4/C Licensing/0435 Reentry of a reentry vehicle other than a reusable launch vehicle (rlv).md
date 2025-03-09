@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0435 Reentry of a reentry vehicle other than a reusable launch vehicle (rlv)
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

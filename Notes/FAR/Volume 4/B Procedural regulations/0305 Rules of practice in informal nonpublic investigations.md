@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0305 Rules of practice in informal nonpublic investigations
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

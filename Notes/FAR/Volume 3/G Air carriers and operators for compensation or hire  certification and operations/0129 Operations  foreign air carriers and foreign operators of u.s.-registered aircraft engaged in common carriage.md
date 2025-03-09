@@ -1,10 +1,11 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0129 Operations  foreign air carriers and foreign operators of u.s.-registered
   aircraft engaged in common carriage
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

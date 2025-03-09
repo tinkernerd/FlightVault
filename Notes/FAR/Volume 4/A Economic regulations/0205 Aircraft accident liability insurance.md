@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0205 Aircraft accident liability insurance
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

@@ -1,19 +1,21 @@
 ---
-title: Ground Reference Maneuvers
-created_at: 2025-02-14T14:48:33-05:00
-modified_at: 2025-02-18T18:30:14-05:00
-category: Aviation
-type: Resource
-topic:
-  - Air Traffic
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 2
-status: Active
+category: Aviation
+created_at: 2025-02-14 14:48:33-05:00
+dg-publish: true
 lesson: 1
+modified_at: 2025-02-18 18:30:14-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Ground Reference Maneuvers
+topic:
+- Air Traffic
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

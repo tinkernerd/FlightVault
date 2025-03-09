@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0222 Intermodal cargo services by foreign air carriers
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

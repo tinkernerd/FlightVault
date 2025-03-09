@@ -1,7 +1,7 @@
 ---
 title: PPL Regulations
 created_at: 2025-03-02T16:41:27-05:00
-modified_at: 2025-03-02T16:42:42-05:00
+modified_at: 2025-03-08T18:38:25-05:00
 category: Aviation
 type: Resource
 topic:
@@ -14,6 +14,7 @@ tags:
 Chapter: Chapter 5
 lesson: 11
 status: Active
+dg-publish: true
 ---
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]

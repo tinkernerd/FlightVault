@@ -1,19 +1,21 @@
 ---
-title: Basic Instrument Flying
-created_at: 2025-03-02T19:33:15-05:00
-modified_at: 2025-03-02T19:34:18-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-  - Navigation
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 19:33:15-05:00
+dg-publish: true
 lesson: 17
+modified_at: 2025-03-02 19:34:18-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Basic Instrument Flying
+topic:
+- Control
+- Navigation
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

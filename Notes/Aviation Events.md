@@ -1,16 +1,18 @@
 ---
-title: Events in Aviation
-category: Aviation
-topic:
-  - Events
-type: Resource
-status: Active
-created_at: 2024-12-30
 banner: https://live.staticflickr.com/65535/53081648415_80d255e4ba_b_d.jpg
-dateUpdated: 2025-01-31T14:41:48
+category: Aviation
+created_at: 2024-12-30
 cssclasses:
-  - cleandoc
+- cleandoc
+dateUpdated: 2025-01-31 14:41:48
+dg-publish: true
+status: Active
+title: Events in Aviation
+topic:
+- Events
+type: Resource
 ---
+
 # Events in Aviation
 
 Aviation events are a great way to connect with fellow enthusiasts, learn about new technologies, and celebrate the wonders of flight. From airshows to educational seminars, there’s something for everyone in the aviation community.
@@ -54,5 +56,3 @@ Aviation events are a great way to connect with fellow enthusiasts, learn about 
 - **Dowagiac Municipal Airport (C91)**
 	- Hosts community fly-ins, safety seminars, and youth aviation programs.
 	- [Learn more about Dowagiac Airport](https://skyvector.com/airport/C91/Dowagiac-Municipal-Airport)
-
-

@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0325 Essential air service procedures
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

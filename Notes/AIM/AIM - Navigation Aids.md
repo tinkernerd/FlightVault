@@ -1,15 +1,17 @@
 ---
-title: Navigation Aids
-category: Aviation
-type: Resource
-chapter: Chapter01
 book: Aeronautical Information Manual
+category: Aviation
+chapter: Chapter01
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
 source: https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html
+title: Navigation Aids
 topic:
-  - Navigation
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
+- Navigation
+type: Resource
 ---
+
 # Chapter 1 - Section 1
 Navigation Aids
 **107 min read**  

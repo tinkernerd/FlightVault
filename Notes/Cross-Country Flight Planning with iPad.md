@@ -1,18 +1,20 @@
 ---
-title: Cross-Country Flight Planning with iPad
-created_at: 2025-02-28T20:49:18-05:00
-modified_at: 2025-02-28T20:50:00-05:00
-category: Aviation
-type: Resource
-topic:
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-02-28 20:49:18-05:00
+dg-publish: true
 lesson: 10
+modified_at: 2025-02-28 20:50:00-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Cross-Country Flight Planning with iPad
+topic:
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

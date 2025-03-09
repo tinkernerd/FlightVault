@@ -1,11 +1,13 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 topic:
-  - Reference
+- Reference
 type: Resource
-volume: "3"
+volume: '3'
 ---
+
 # Volume 3
 
 - [[Notes/FAR/Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0000 Index|Subchapter G. Air carriers and operators for compensation or hire: certification and operations]]

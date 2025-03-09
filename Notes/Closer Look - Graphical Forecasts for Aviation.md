@@ -1,18 +1,20 @@
 ---
-title: "Closer Look: Graphical Forecasts for Aviation"
-created_at: 2025-02-25T18:47:29-05:00
-modified_at: 2025-02-25T18:48:45-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-25 18:47:29-05:00
+dg-publish: true
 lesson: 23
+modified_at: 2025-02-25 18:48:45-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Closer Look: Graphical Forecasts for Aviation'
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

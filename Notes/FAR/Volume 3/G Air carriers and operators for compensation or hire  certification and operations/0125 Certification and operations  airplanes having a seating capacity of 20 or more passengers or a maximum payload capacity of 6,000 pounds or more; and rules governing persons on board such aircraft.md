@@ -1,11 +1,12 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0125 Certification and operations  airplanes having a seating capacity of 20
   or more passengers or a maximum payload capacity of 6,000 pounds or more; and rules
   governing persons on board such aircraft
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

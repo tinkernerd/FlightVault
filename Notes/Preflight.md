@@ -1,18 +1,20 @@
 ---
-title: Preflight
-created_at: 2025-02-07T19:57:34-05:00
-modified_at: 2025-02-18T18:19:58-05:00
-category: Aviation
-type: Resource
-topic:
-  - Airport Operations
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 1
-status: Active
+category: Aviation
+created_at: 2025-02-07 19:57:34-05:00
+dg-publish: true
 lesson: 11
+modified_at: 2025-02-18 18:19:58-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Preflight
+topic:
+- Airport Operations
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0211 Applications for permits to foreign air carriers
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

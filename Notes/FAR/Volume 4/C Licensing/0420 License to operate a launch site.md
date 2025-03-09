@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0420 License to operate a launch site
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

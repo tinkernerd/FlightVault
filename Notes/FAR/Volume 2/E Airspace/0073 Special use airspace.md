@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0073 Special use airspace
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 2
 ---

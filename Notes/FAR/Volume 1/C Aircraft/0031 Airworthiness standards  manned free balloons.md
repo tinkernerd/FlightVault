@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0031 Airworthiness standards  manned free balloons
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 1
 ---

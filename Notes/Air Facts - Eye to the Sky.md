@@ -1,18 +1,20 @@
 ---
-title: "Air Facts: Eye to the Sky"
-created_at: 2025-02-25T18:51:38-05:00
-modified_at: 2025-02-25T18:52:27-05:00
-category: Aviation
-type: Resource
-topic:
-  - Air Traffic
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-25 18:51:38-05:00
+dg-publish: true
 lesson: 25
+modified_at: 2025-02-25 18:52:27-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Air Facts: Eye to the Sky'
+topic:
+- Air Traffic
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

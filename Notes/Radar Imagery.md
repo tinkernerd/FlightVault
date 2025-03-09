@@ -1,18 +1,20 @@
 ---
-title: Radar Imagery
-created_at: 2025-02-23T21:40:38-05:00
-modified_at: 2025-02-23T21:41:32-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-23 21:40:38-05:00
+dg-publish: true
 lesson: 18
+modified_at: 2025-02-23 21:41:32-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Radar Imagery
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

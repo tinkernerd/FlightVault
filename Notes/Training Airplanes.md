@@ -1,18 +1,20 @@
 ---
-title: Training Airplanes
-created_at: 2025-02-18T18:13:42-05:00
-modified_at: 2025-02-18T18:14:32-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 1
+category: Aviation
+created_at: 2025-02-18 18:13:42-05:00
+dg-publish: true
 lesson: 4
+modified_at: 2025-02-18 18:14:32-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Training Airplanes
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

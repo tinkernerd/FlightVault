@@ -1,18 +1,20 @@
 ---
-title: Atmospheric Stability
-created_at: 2025-03-02T19:16:32-05:00
-modified_at: 2025-03-02T19:18:16-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 19:16:32-05:00
+dg-publish: true
 lesson: 13
+modified_at: 2025-03-02 19:18:16-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Atmospheric Stability
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

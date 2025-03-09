@@ -1,19 +1,21 @@
 ---
-title: Slow Flight
-created_at: 2025-02-14T15:37:25-05:00
-modified_at: 2025-02-23T20:00:09-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 2
-status: Active
+category: Aviation
+created_at: 2025-02-14 15:37:25-05:00
+dg-publish: true
 lesson: 7
+modified_at: 2025-02-23 20:00:09-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Slow Flight
+topic:
+- Navigation
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

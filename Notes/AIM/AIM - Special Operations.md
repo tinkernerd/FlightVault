@@ -1,14 +1,16 @@
 ---
-title: Special Operations
 book: Aeronautical Information Manual
-chapter: chapter10
-topic:
-  - Helicopter
-type: Resource
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter10
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Special Operations
+topic:
+- Helicopter
+type: Resource
 ---
+
 # Chapter 10 - Section 2
 Special Operations
 **41 min read**  

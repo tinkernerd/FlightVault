@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0433 License to operate a reentry site
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

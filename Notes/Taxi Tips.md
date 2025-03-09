@@ -1,18 +1,20 @@
 ---
-title: Taxi Tips
-created_at: 2025-02-14T14:51:52-05:00
-modified_at: 2025-02-18T18:30:52-05:00
-category: Aviation
-type: Resource
-topic:
-  - Airport Operations
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 2
-status: Active
+category: Aviation
+created_at: 2025-02-14 14:51:52-05:00
+dg-publish: true
 lesson: 2
+modified_at: 2025-02-18 18:30:52-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Taxi Tips
+topic:
+- Airport Operations
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

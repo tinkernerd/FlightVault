@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0235 Reports by air carriers on incidents involving animals during air transport
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

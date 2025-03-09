@@ -1,18 +1,20 @@
 ---
-title: Change of Scenery
-created_at: 2025-02-16T17:43:59-05:00
-modified_at: 2025-02-18T18:35:20-05:00
-category: Aviation
-type: Resource
-topic:
-  - Air Traffic
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 2
-status: Active
+category: Aviation
+created_at: 2025-02-16 17:43:59-05:00
+dg-publish: true
 lesson: 8
+modified_at: 2025-02-18 18:35:20-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Change of Scenery
+topic:
+- Air Traffic
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

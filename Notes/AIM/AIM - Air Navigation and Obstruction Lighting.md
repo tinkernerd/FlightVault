@@ -1,13 +1,14 @@
 ---
+book: Aeronautical Information Manual
+category: Aviation
+chapter: Chapter02
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
 title: Air Navigation and Obstruction Lighting
 topic:
-  - Navigation
-book: Aeronautical Information Manual
-chapter: Chapter02
+- Navigation
 type: Resource
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
-category: Aviation
 ---
 
 # Chapter 2 - Section 2

@@ -1,16 +1,18 @@
 ---
-title: Departure Procedures
 book: Aeronautical Information Manual
-chapter: chapter05
-type: Resource
-topic:
-  - Navigation
-  - Communications
-  - Air Traffic
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter05
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Departure Procedures
+topic:
+- Navigation
+- Communications
+- Air Traffic
+type: Resource
 ---
+
 # Chapter 5 - Section 2
 Departure Procedures
 **43 min read**  

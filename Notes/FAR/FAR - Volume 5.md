@@ -1,11 +1,13 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 topic:
-  - Reference
+- Reference
 type: Resource
-volume: "5"
+volume: '5'
 ---
+
 # Volume 5
 
 - [[Notes/FAR/Volume 5/A Office of management and budget/0000 Index|Subchapter A. Office of management and budget]]

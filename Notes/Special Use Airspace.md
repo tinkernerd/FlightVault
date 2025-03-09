@@ -1,19 +1,21 @@
 ---
-title: Special Use Airspace
-created_at: 2025-03-01T17:39:36-05:00
-modified_at: 2025-03-01T17:42:51-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-  - Air Traffic
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 17:39:36-05:00
+dg-publish: true
 lesson: 23
+modified_at: 2025-03-01 17:42:51-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Special Use Airspace
+topic:
+- Navigation
+- Air Traffic
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

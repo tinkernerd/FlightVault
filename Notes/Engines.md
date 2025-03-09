@@ -1,18 +1,20 @@
 ---
-title: Engines
-created_at: 2025-02-14T14:54:49-05:00
-modified_at: 2025-02-18T18:31:08-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 2
-status: Active
+category: Aviation
+created_at: 2025-02-14 14:54:49-05:00
+dg-publish: true
 lesson: 3
+modified_at: 2025-02-18 18:31:08-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Engines
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

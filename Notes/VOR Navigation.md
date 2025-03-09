@@ -1,18 +1,20 @@
 ---
-title: VOR Navigation
-created_at: 2025-03-01T09:16:03-05:00
-modified_at: 2025-03-01T09:17:24-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 09:16:03-05:00
+dg-publish: true
 lesson: 12
+modified_at: 2025-03-01 09:17:24-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: VOR Navigation
+topic:
+- Navigation
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

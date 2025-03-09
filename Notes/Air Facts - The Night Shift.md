@@ -1,19 +1,21 @@
 ---
-title: "Air Facts: The Night Shift"
-created_at: 2025-02-27T19:08:33-05:00
-modified_at: 2025-02-27T19:09:41-05:00
-category: Aviation
-type: Resource
-topic:
-  - Night
-  - Navigation
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-02-27 19:08:33-05:00
+dg-publish: true
 lesson: 2
+modified_at: 2025-02-27 19:09:41-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Air Facts: The Night Shift'
+topic:
+- Night
+- Navigation
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

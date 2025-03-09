@@ -1,19 +1,21 @@
 ---
-title: Closer Look - Self-Serve Fuel
-created_at: 2025-03-07T16:16:54-05:00
-modified_at: 2025-03-07T16:18:10-05:00
-category: Aviation
-type: Resource
-topic:
-  - Planning
-  - Airport Operations
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-07 16:16:54-05:00
+dg-publish: true
 lesson: 23
+modified_at: 2025-03-07 16:18:10-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Closer Look - Self-Serve Fuel
+topic:
+- Planning
+- Airport Operations
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

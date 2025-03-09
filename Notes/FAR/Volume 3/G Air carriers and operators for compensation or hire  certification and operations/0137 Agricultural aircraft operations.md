@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0137 Agricultural aircraft operations
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

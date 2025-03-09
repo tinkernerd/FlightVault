@@ -1,19 +1,21 @@
 ---
-title: Normal Landings
-created_at: 2025-02-16T18:34:00-05:00
-modified_at: 2025-02-18T18:37:17-05:00
-category: Aviation
-type: Resource
-topic:
-  - T/O & Landings
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 2
-status: Active
+category: Aviation
+created_at: 2025-02-16 18:34:00-05:00
+dg-publish: true
 lesson: 11
+modified_at: 2025-02-18 18:37:17-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Normal Landings
+topic:
+- T/O & Landings
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

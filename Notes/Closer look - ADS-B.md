@@ -1,21 +1,23 @@
 ---
-title: Closer look - ADS-B
-created_at: 2025-03-02T16:35:18-05:00
-modified_at: 2025-03-02T16:40:57-05:00
-category: Aviation
-type: Resource
-topic:
-  - Communications
-  - Navigation
-  - Aircraft
-  - Air Traffic
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 16:35:18-05:00
+dg-publish: true
 lesson: 10
+modified_at: 2025-03-02 16:40:57-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Closer look - ADS-B
+topic:
+- Communications
+- Navigation
+- Aircraft
+- Air Traffic
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

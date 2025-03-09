@@ -1,18 +1,20 @@
 ---
-title: Pilot Weather Reports (PIREPs)
-created_at: 2025-03-01T14:20:01-05:00
-modified_at: 2025-03-01T14:27:32-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 14:20:01-05:00
+dg-publish: true
 lesson: 18
+modified_at: 2025-03-01 14:27:32-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Pilot Weather Reports (PIREPs)
+topic:
+- Weather
+type: Resource
 ---
+
 # Pilot Weather Reports (PIREPs)
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

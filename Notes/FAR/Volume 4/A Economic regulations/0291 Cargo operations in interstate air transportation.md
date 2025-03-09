@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0291 Cargo operations in interstate air transportation
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

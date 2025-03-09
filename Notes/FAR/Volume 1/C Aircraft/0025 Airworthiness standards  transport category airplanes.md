@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0025 Airworthiness standards  transport category airplanes
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 1
 ---

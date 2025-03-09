@@ -1,20 +1,22 @@
 ---
-title: Air Facts - Getting to Know You
-created_at: 2025-03-01T20:34:02-05:00
-modified_at: 2025-03-01T20:34:34-05:00
-category: Aviation
-type: Resource
-topic:
-  - Communications
-  - Navigation
-  - Air Traffic
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-01 20:34:02-05:00
+dg-publish: true
 lesson: 2
+modified_at: 2025-03-01 20:34:34-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Air Facts - Getting to Know You
+topic:
+- Communications
+- Navigation
+- Air Traffic
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

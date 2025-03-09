@@ -1,18 +1,20 @@
 ---
-title: Cloud Formations
-created_at: 2025-03-02T16:45:44-05:00
-modified_at: 2025-03-02T16:46:23-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 5
+category: Aviation
+created_at: 2025-03-02 16:45:44-05:00
+dg-publish: true
 lesson: 12
+modified_at: 2025-03-02 16:46:23-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Cloud Formations
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

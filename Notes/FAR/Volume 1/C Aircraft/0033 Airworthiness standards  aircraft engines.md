@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0033 Airworthiness standards  aircraft engines
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 1
 ---

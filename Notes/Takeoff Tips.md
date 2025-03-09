@@ -1,18 +1,20 @@
 ---
-title: Takeoff Tips
-created_at: 2025-02-09T00:12:52-05:00
-modified_at: 2025-02-18T18:26:47-05:00
-category: Aviation
-type: Resource
-topic:
-  - T/O & Landings
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 1
-status: Active
+category: Aviation
+created_at: 2025-02-09 00:12:52-05:00
+dg-publish: true
 lesson: 21
+modified_at: 2025-02-18 18:26:47-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Takeoff Tips
+topic:
+- T/O & Landings
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

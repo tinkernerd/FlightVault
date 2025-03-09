@@ -1,19 +1,21 @@
 ---
-title: "Closer Look: Reducing Drag"
-created_at: 2025-02-23T21:53:27-05:00
-modified_at: 2025-02-23T21:53:27-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-23 21:53:27-05:00
+dg-publish: true
 lesson: 20
+modified_at: 2025-02-23 21:53:27-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: 'Closer Look: Reducing Drag'
+topic:
+- Control
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

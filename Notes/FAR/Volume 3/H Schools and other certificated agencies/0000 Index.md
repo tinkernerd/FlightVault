@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0000 Index
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 3
 ---

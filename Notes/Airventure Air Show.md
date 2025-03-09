@@ -1,18 +1,20 @@
 ---
-title: The Legendary AirVenture
-description: A giant fly-in in Oshkosh Wisconsin
-status: Active
-type: Resource
 category: Aviation
-tags:
-  - airventure
-  - eaa
-  - flight
-  - aviation
-topic:
-  - Events
 created_at: 2024-04-09
+description: A giant fly-in in Oshkosh Wisconsin
+dg-publish: true
+status: Active
+tags:
+- airventure
+- eaa
+- flight
+- aviation
+title: The Legendary AirVenture
+topic:
+- Events
+type: Resource
 ---
+
 # Airventure
 ## FAA Info
 - [FAA Notice – AirVenture flight procedures](https://www.eaa.org/airventure/eaa-fly-in-flying-to-oshkosh/eaa-airventure-oshkosh-notam)*
@@ -25,4 +27,3 @@ created_at: 2024-04-09
 ### Camping
 - [Camp Scholler](https://www.eaa.org/airventure/plan-your-eaa-airventure-trip/eaa-camping-and-lodging/camp-scholler)
 - [Camping Unit Rentals](https://www.eaa.org/airventure/plan-your-eaa-airventure-trip/eaa-camping-and-lodging/camp-scholler/camping-unit-rentals)
-

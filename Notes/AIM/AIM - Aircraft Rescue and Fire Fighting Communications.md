@@ -1,14 +1,16 @@
 ---
-title: Aircraft Rescue and Fire Fighting Communications
 book: Aeronautical Information Manual
-chapter: chapter06
-type: Resource
-topic:
-  - Emergencies
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter06
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Aircraft Rescue and Fire Fighting Communications
+topic:
+- Emergencies
+type: Resource
 ---
+
 # Chapter 6 - Section 5
 Aircraft Rescue and Fire Fighting Communications
 **2 min read**  

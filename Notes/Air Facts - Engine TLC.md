@@ -1,18 +1,20 @@
 ---
-title: Air Facts - Engine TLC
-created_at: 2025-02-07T19:49:18-05:00
-modified_at: 2025-02-18T18:18:10-05:00
-category: Aviation
-type: Resource
-topic:
-  - Aircraft
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 1
-status: Active
+category: Aviation
+created_at: 2025-02-07 19:49:18-05:00
+dg-publish: true
 lesson: 8
+modified_at: 2025-02-18 18:18:10-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Air Facts - Engine TLC
+topic:
+- Aircraft
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

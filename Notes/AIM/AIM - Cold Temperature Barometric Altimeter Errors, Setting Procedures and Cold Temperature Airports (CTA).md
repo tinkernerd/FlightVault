@@ -1,14 +1,17 @@
 ---
-title: Cold Temperature Barometric Altimeter Errors, Setting Procedures and Cold Temperature Airports (CTA)
-topic:
-  - Weather
 book: Aeronautical Information Manual
-chapter: chapter07
-type: Resource
 category: Aviation
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
+chapter: chapter07
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Cold Temperature Barometric Altimeter Errors, Setting Procedures and Cold Temperature
+  Airports (CTA)
+topic:
+- Weather
+type: Resource
 ---
+
 # Chapter 7 - Section 3
 Cold Temperature Barometric Altimeter Errors, Setting Procedures and Cold Temperature Airports (CTA)
 **18 min read**  

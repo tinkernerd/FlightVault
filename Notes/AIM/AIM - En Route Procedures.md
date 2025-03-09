@@ -1,16 +1,18 @@
 ---
-title: En Route Procedures
 book: Aeronautical Information Manual
-chapter: chapter05
-type: Resource
-topic:
-  - Air Traffic
-  - Communications
-  - Navigation
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter05
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: En Route Procedures
+topic:
+- Air Traffic
+- Communications
+- Navigation
+type: Resource
 ---
+
 # Chapter 5 - Section 3
 En Route Procedures
 **61 min read**  

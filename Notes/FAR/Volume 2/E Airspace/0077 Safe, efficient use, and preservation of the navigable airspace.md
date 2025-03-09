@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0077 Safe, efficient use, and preservation of the navigable airspace
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 2
 ---

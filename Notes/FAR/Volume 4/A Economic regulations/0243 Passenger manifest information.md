@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0243 Passenger manifest information
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

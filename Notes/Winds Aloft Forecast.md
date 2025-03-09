@@ -1,19 +1,21 @@
 ---
-title: Winds Aloft Forecast
-created_at: 2025-03-01T18:06:49-05:00
-modified_at: 2025-03-01T18:07:58-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-  - Planning
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 18:06:49-05:00
+dg-publish: true
 lesson: 25
+modified_at: 2025-03-01 18:07:58-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Winds Aloft Forecast
+topic:
+- Weather
+- Planning
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

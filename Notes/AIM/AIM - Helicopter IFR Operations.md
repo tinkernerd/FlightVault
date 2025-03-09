@@ -1,14 +1,16 @@
 ---
-title: Helicopter IFR Operations
 book: Aeronautical Information Manual
-chapter: chapter10
-type: Resource
-topic:
-  - Helicopter
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 category: Aviation
+chapter: chapter10
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Helicopter IFR Operations
+topic:
+- Helicopter
+type: Resource
 ---
+
 # Chapter 10 - Section 1
 Helicopter IFR Operations
 **18 min read**  

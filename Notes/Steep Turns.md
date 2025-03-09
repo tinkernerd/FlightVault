@@ -1,18 +1,20 @@
 ---
-title: Steep Turns
-created_at: 2025-02-18T08:53:22-05:00
-modified_at: 2025-02-18T08:55:18-05:00
-category: Aviation
-type: Resource
-topic:
-  - Control
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
-status: Active
+category: Aviation
+created_at: 2025-02-18 08:53:22-05:00
+dg-publish: true
 lesson: 3
+modified_at: 2025-02-18 08:55:18-05:00
+status: Active
+tags:
+- aviation
+- classnotes
+title: Steep Turns
+topic:
+- Control
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

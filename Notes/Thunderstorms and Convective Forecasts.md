@@ -1,18 +1,20 @@
 ---
-title: Thunderstorms and Convective Forecasts
-created_at: 2025-02-23T21:37:27-05:00
-modified_at: 2025-02-23T21:39:13-05:00
-category: Aviation
-type: Resource
-topic:
-  - Weather
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 3
+category: Aviation
+created_at: 2025-02-23 21:37:27-05:00
+dg-publish: true
 lesson: 17
+modified_at: 2025-02-23 21:39:13-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Thunderstorms and Convective Forecasts
+topic:
+- Weather
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

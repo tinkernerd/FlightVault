@@ -1,14 +1,16 @@
 ---
-title: AIM - Preflight
 book: Aeronautical Information Manual
-chapter: chapter05
-topic:
-  - Airport Operations
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
-type: Resource
 category: Aviation
+chapter: chapter05
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: AIM - Preflight
+topic:
+- Airport Operations
+type: Resource
 ---
+
 # Chapter 5 - Section 1
 Preflight
 **76 min read**  

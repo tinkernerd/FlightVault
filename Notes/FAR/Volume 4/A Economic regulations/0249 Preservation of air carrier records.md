@@ -1,9 +1,10 @@
 ---
 book: Federal Aviation Regulations
 category: Aviation
+dg-publish: true
 title: 0249 Preservation of air carrier records
 topic:
-  - Reference
+- Reference
 type: Resource
 volume: 4
 ---

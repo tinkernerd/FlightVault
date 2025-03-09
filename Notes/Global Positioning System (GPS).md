@@ -1,18 +1,20 @@
 ---
-title: Global Positioning System (GPS)
-created_at: 2025-03-01T10:04:33-05:00
-modified_at: 2025-03-01T10:05:22-05:00
-category: Aviation
-type: Resource
-topic:
-  - Navigation
-tags:
-  - aviation
-  - classnotes
 Chapter: Chapter 4
+category: Aviation
+created_at: 2025-03-01 10:04:33-05:00
+dg-publish: true
 lesson: 13
+modified_at: 2025-03-01 10:05:22-05:00
 status: Active
+tags:
+- aviation
+- classnotes
+title: Global Positioning System (GPS)
+topic:
+- Navigation
+type: Resource
 ---
+
 # `= this.title`
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
 

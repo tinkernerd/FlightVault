@@ -1,14 +1,16 @@
 ---
-title: Airspace General
-category: Aviation
 book: Aeronautical Information Manual
+category: Aviation
 chapter: chapter03
+created_at: 2025-01-31 22:04:12
+dateUpdated: 2025-01-31 22:04:12
+dg-publish: true
+title: Airspace General
 topic:
-  - Navigation
+- Navigation
 type: Resource
-dateUpdated: 2025-01-31T22:04:12
-created_at: 2025-01-31T22:04:12
 ---
+
 # Chapter 3 - Section 1
 General
 **4 min read**  

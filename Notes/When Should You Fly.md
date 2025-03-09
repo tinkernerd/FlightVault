@@ -12,6 +12,7 @@ Chapter: Chapter 1
 status: Active
 category: Aviation
 lesson: 1
+dg-publish: true
 ---
 # When Should You Fly?
 > [[Private Pilot License (PPL) Notes |All Class Notes]]
