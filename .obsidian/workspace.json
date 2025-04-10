@@ -1,0 +1,376 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c1b2626575d6531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "191024de5d67be9a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Student Pilot Glossary.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Student Pilot Glossary"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dd41a205f5a8af37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "565a34ce0ea68df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Terms/Abort.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Abort"
+            }
+          },
+          {
+            "id": "aba473c2020a41ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏠 Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "🏠 Homepage"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3f93fc50421af6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fec4d554ea510f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9583113ae6bf2905",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Sidebar.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Sidebar"
+            }
+          },
+          {
+            "id": "edc2ec343b41aae3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b3240ff146e0ad5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9558516eb0c3b1a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391
+  },
+  "right": {
+    "id": "993c486477069ae0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f845e9c8d00e1f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe56efb385c365b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Reference/A&P Books/AMT Handbook - General (FAA-H-8083-30B).pdf",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6608893353544651,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of AMT Handbook - General (FAA-H-8083-30B)"
+            }
+          },
+          {
+            "id": "45d45b4e031ff8ed",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "trash",
+              "title": "Trash explorer"
+            }
+          },
+          {
+            "id": "53705c0c85f6e934",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference/Terms/Abort.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abort"
+            }
+          },
+          {
+            "id": "09d570f045d68ded",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Radio Communications Cheat Sheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Radio Communications Cheat Sheet"
+            }
+          },
+          {
+            "id": "7200981f3776aa07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5f490cc500c5a51",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "093d5e1ab85c93f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aaba83df8f56b6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Reference/Terms/Abort.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Abort"
+            }
+          },
+          {
+            "id": "0031fcc8c08d3795",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assets/Templates/A&P Note Template.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of A&P Note Template"
+            }
+          },
+          {
+            "id": "64bf8984197c6069",
+            "type": "leaf",
+            "state": {
+              "type": "broken-links-view",
+              "state": {},
+              "icon": "unlink",
+              "title": "Broken links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "broken-links:View broken links": false,
+      "callout-manager:Insert Callout": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "aba473c2020a41ce",
+  "lastOpenFiles": [
+    "Reference/Terms/Abort.md",
+    "Reference/Terms/Abeam.md",
+    "Reference/Terms/Acknowlege.md",
+    "Reference/Student Pilot Glossary.md",
+    "Reference/Glossary.md",
+    "Assets/Templates/Term.md",
+    "Assets/Templates/Formulas.md",
+    "Assets/Templates/A&P/A&P PowerPlant Template.md",
+    "Assets/Templates/A&P/A&P Note Template.md",
+    "Assets/Templates/A&P/A&P General Template.md",
+    "Reference/Glossary/Abort.md",
+    "Assets/Templates/A&P/A&P Airframe Template.md",
+    "Notes/Flight Training/Air Facts - Laying a Foundation.md",
+    "Notes/Sidebar.md",
+    "🏠 Homepage.md",
+    "Assets/Buttons/New Note Buttons.md",
+    "Notes/A&P School/General/Untitled 1.md",
+    "Assets/Buttons",
+    "Reference/A&P Glossary.md",
+    "Reference/Terms",
+    "Reference/Terms.md",
+    "Assets/Templates/Quick Note Template.md",
+    "Untitled",
+    "Reference/Books/AIM/AIM-C5S1.md",
+    "Reference/Books/AIM/AIM-C4S3.md",
+    "Reference/Dashboards/Aviation Resources.md",
+    "Reference/Books/Airplane Flying Handbook (FAA-H-8083-3C).md",
+    "Notes/Flight Training/Untitled.md",
+    "Reference/A&P Books/Acr2944618843712-1685317.tmp.md",
+    "Reference/A&P Books/Acr2944618843712-1685317.tmp",
+    "Reference/A&P Books/AMT Handbook - General (FAA-H-8083-30B).pdf",
+    "Reference/Documents/VFR Symbols.pdf",
+    "Reference/Documents/Airspace Flashcards.pdf",
+    "Reference/Documents",
+    "Reference/Documents/VFR Flight Planner.pdf",
+    "Reference/Documents/VFR Communications for Idiots.pdf",
+    "Assets/Attachments/How the Fck does lift work.png",
+    "Assets/Attachments/Forces.png",
+    "Notes/Aviation Resources Canvas.canvas",
+    "favicon.svg",
+    "Assets/Attachments/Traffic Pattern Procedures - C91.jpg",
+    "Aviation Resources Canvas 1.canvas",
+    "Assets/Attachments/Images/Traffic Pattern illustration - C91.jpg",
+    "Assets/Attachments/HomeBanner.png",
+    "Assets/assets/T101_3_019.png",
+    "Assets/assets/T101_2_041.png",
+    "Assets/assets/T101_2_019.png",
+    "Assets/assets/T101_2_002.png"
+  ]
+}
